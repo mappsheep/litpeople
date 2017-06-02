@@ -1,0 +1,76 @@
+People in this joint 1  at 2017-04-19 20:25:56.521725
+People in this joint -1  at 2017-04-20 19:05:43.469954
+People in this joint 1  at 2017-04-27 15:58:29.955143
+People in this joint 1  at 2017-04-27 15:59:14.083112
+People in this joint -1  at <module 'time' (built-in)>
+People in this joint -1  at <module 'time' (built-in)>
+People in this joint 1  at 2017-04-27 17:20:58.852330
+People in this joint 1  at 2017-04-27 17:22:40.086403
+People in this joint 1  at 2017-04-27 17:25:09.541536
+People in this joint 1  at 2017-04-27 17:26:22.304639
+People in this joint 1  at 2017-04-27 17:36:10.415609
+People in this joint 1  at 2017-04-27 17:38:08.953427
+People in this joint 1  at 2017-04-27 17:56:04.868270
+People in this joint 1  at 2017-04-27 17:59:26.373794
+People in this joint -1  at <module 'time' (built-in)>
+People in this joint 1  at 2017-04-27 18:05:55.124542
+People in this joint 1  at 2017-04-27 18:07:41.423117
+People in this joint 1  at 2017-04-27 18:10:52.104139
+People in this joint 1  at 2017-04-27 18:12:09.287594
+People in this joint 1  at 2017-04-27 18:21:47.768951
+People in this joint 1  at 2017-04-27 18:22:40.007275
+People in this joint 1  at 2017-04-27 18:50:34.746212
+People in this joint 1  at 2017-04-27 18:56:54.537510
+People in this joint 1  at 2017-04-27 19:18:24.968069
+People in this joint 1  at 2017-04-27 19:19:59.993637
+People in this joint 1  at 2017-04-27 19:48:21.075047
+People in this joint 1  at 2017-04-27 19:54:23.491662
+People in this joint 1  at 2017-04-27 19:54:58.291349
+People in this joint 1  at 2017-04-27 19:55:38.742887
+People in this joint -1  at <module 'time' (built-in)>
+People in this joint 1  at 2017-04-27 20:04:03.979107
+People in this joint 1  at 2017-04-27 20:05:19.407446
+People in this joint 2  at 2017-04-27 20:05:19.407446
+People in this joint 1  at <module 'time' (built-in)>
+People in this joint 1  at 2017-04-28 16:52:24.977657
+People in this joint 1  at 2017-04-28 16:53:31.802502
+People in this joint 0  at <module 'time' (built-in)>
+People in this joint 1  at 2017-04-28 16:53:31.802502
+People in this joint -1  at <module 'time' (built-in)>
+People in this joint -2  at <module 'time' (built-in)>
+People in this joint -1  at 2017-04-28 16:54:41.700742
+People in this joint 0  at 2017-04-28 16:54:41.700742
+People in this joint 1  at 2017-04-28 16:54:41.700742
+People in this joint 1  at 2017-04-28 16:59:36.307786
+People in this joint 1  at 2017-04-28 17:00:20.187739
+People in this joint 0  at <module 'time' (built-in)>
+People in this joint 1  at 2017-04-28 17:00:20.187739
+People in this joint 0  at <module 'time' (built-in)>
+People in this joint 1  at 2017-04-28 17:00:20.187739
+People in this joint 2  at 2017-04-28 17:00:20.187739
+People in this joint 3  at 2017-04-28 17:00:20.187739
+People in this joint 4  at 2017-04-28 17:00:20.187739
+People in this joint 5  at 2017-04-28 17:00:20.187739
+People in this joint 6  at 2017-04-28 17:00:20.187739
+People in this joint -1  at <module 'time' (built-in)>
+People in this joint 0  at 2017-04-28 17:02:20.333207
+People in this joint 1  at 2017-04-28 17:02:20.333207
+People in this joint 1  at 2017-05-23 19:58:54.541518
+People in this joint 1  at 2017-05-23 20:07:33.453687
+People in this joint 2  at 2017-05-23 20:07:33.453687
+People in this joint -1  at <module 'time' (built-in)>
+People in this joint -2  at <module 'time' (built-in)>
+People in this joint -3  at <module 'time' (built-in)>
+People in this joint -2  at 2017-05-23 20:08:08.456968
+People in this joint -3  at <module 'time' (built-in)>
+People in this joint -1  at <module 'time' (built-in)>
+People in this joint 0  at 2017-05-24 14:50:37.101643
+People in this joint -1  at <module 'time' (built-in)>
+People in this joint -2  at <module 'time' (built-in)>
+People in this joint -1  at <module 'time' (built-in)>
+People in this joint -2  at <module 'time' (built-in)>
+People in this joint -1  at 2017-05-24 15:14:18.976961
+People in this joint -2  at <module 'time' (built-in)>
+People in this joint -3  at <module 'time' (built-in)>
+People in this joint -2  at 2017-05-24 15:14:18.976961
+People in this joint -1  at 2017-05-24 15:14:18.976961
