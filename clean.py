@@ -73,6 +73,7 @@ end2 = 0		#end time for sensor 2
 elapsed1 = 0		#total time sensor 1 started for execution
 elapsed2 = 0		#total time sensor 2 started for execution
 peoplecount = 0		#number of people
+peoplein = 0
 hit1 = 0		#sensor 1 detection
 hit2 = 0		#sensor 2 detection
 
@@ -122,7 +123,9 @@ while(1):
 	#sensor 1 was pinged first then sensor 2 so someone entered
         if (hit1 == 1 and hit2 == 1 and elapsed1 > elapsed2):
                 peoplecount += 1		#increment number of people by 1
+		peoplein += 1			#increment number of people that entered by 1
 		stringer = str(peoplecount)	#stringer is string variable of peoplecount
+		stringpeepsin = str(peoplein)	#stringpeepsin is string variable of peoplein
 		stringerdate = str(timestamp)	#stringerdate is string variable of timestamp
 		#the strings are necessary to write to the text file data.txt
                
@@ -136,8 +139,12 @@ while(1):
                 data.write(stringerdate)
 		data.write("\n")
 
-		#outputing the count to the table in the database, also must be in string format, must commit
+		#outputing the count to the Litpeople table in the database, also must be in string format, must commit
 		cursor.execute("INSERT INTO Litpeople VALUES (%s,%s)", (stringerdate, stringer))
+		database.commit()
+
+		#outputing the running count into total table in the database, must be in string format, must commit
+		cursor.execute("INSERT INTO total VALUES (%s,%s)", (stringpeepsin, stringerdate))
 		database.commit()
 
 		#reset the variables to 0 for recomputuation
@@ -164,9 +171,6 @@ while(1):
 		data.write("  at ")
                 data.write(stringerdate)
 		data.write("\n")
-
-		lit = "INSERT INTO Litpeople (when, count) VALUES (%s,%s)"
-		litstring = str(lit)
 
 		cursor.execute("INSERT INTO Litpeople VALUES (%s,%s)", (stringerdate, stringer))
 		database.commit()

@@ -95,6 +95,7 @@ elapsed2 = 0		#total time sensor 2 started for execution
 #second1 = 0		#sensor 1 determination, second, value = 0 or 1 #not being used ###############
 #second2 = 0		#sensor 2 determination, second, value = 0 or 1 #not being used ###############
 peoplecount = 0		#number of people
+peepsin = 0		#number of people that enter only
 hit1 = 0		#sensor 1 detection
 hit2 = 0		#sensor 2 detection
 
@@ -222,9 +223,11 @@ while(1):
 	#sensor 1 was pinged first then sensor 2 so someone entered
         if (hit1 == 1 and hit2 == 1 and elapsed1 > elapsed2):
                 peoplecount += 1		#increment number of people by 1
+		peepsin += 1			#increment number of people that entered by 1
 		stringer = str(peoplecount)	#stringer is string variable of peoplecount
 		stringerdate = str(timestamp)	#stringerdate is string variable of timestamp
-		#the strings are necessary to write to the text file data.txt
+		#the strings are necessary to write to the text file data.txt and entering to database
+		strpeeps = str(peepsin)		#string value for peepsin
                
 		print('Someone entered this joint little daddy')
                 print('Total Personel = ', peoplecount)
@@ -244,6 +247,9 @@ while(1):
 
 		#outputing the count to the table in the database, also must be in string format, must commit
 		cursor.execute("INSERT INTO Litpeople VALUES (%s,%s)", (stringerdate, stringer))
+		database.commit()
+
+		cursor.execute("INSERT INTO total VALUES (%s)", (strpeeps))
 		database.commit()
 
 		#reset the variables to 0 for recomputuation
