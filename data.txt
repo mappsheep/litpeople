@@ -1,99 +1,1386 @@
-People in this joint 1  at 2017-04-19 20:25:56.521725
-People in this joint -1  at 2017-04-20 19:05:43.469954
-People in this joint 1  at 2017-04-27 15:58:29.955143
-People in this joint 1  at 2017-04-27 15:59:14.083112
-People in this joint -1  at <module 'time' (built-in)>
-People in this joint -1  at <module 'time' (built-in)>
-People in this joint 1  at 2017-04-27 17:20:58.852330
-People in this joint 1  at 2017-04-27 17:22:40.086403
-People in this joint 1  at 2017-04-27 17:25:09.541536
-People in this joint 1  at 2017-04-27 17:26:22.304639
-People in this joint 1  at 2017-04-27 17:36:10.415609
-People in this joint 1  at 2017-04-27 17:38:08.953427
-People in this joint 1  at 2017-04-27 17:56:04.868270
-People in this joint 1  at 2017-04-27 17:59:26.373794
-People in this joint -1  at <module 'time' (built-in)>
-People in this joint 1  at 2017-04-27 18:05:55.124542
-People in this joint 1  at 2017-04-27 18:07:41.423117
-People in this joint 1  at 2017-04-27 18:10:52.104139
-People in this joint 1  at 2017-04-27 18:12:09.287594
-People in this joint 1  at 2017-04-27 18:21:47.768951
-People in this joint 1  at 2017-04-27 18:22:40.007275
-People in this joint 1  at 2017-04-27 18:50:34.746212
-People in this joint 1  at 2017-04-27 18:56:54.537510
-People in this joint 1  at 2017-04-27 19:18:24.968069
-People in this joint 1  at 2017-04-27 19:19:59.993637
-People in this joint 1  at 2017-04-27 19:48:21.075047
-People in this joint 1  at 2017-04-27 19:54:23.491662
-People in this joint 1  at 2017-04-27 19:54:58.291349
-People in this joint 1  at 2017-04-27 19:55:38.742887
-People in this joint -1  at <module 'time' (built-in)>
-People in this joint 1  at 2017-04-27 20:04:03.979107
-People in this joint 1  at 2017-04-27 20:05:19.407446
-People in this joint 2  at 2017-04-27 20:05:19.407446
-People in this joint 1  at <module 'time' (built-in)>
-People in this joint 1  at 2017-04-28 16:52:24.977657
-People in this joint 1  at 2017-04-28 16:53:31.802502
-People in this joint 0  at <module 'time' (built-in)>
-People in this joint 1  at 2017-04-28 16:53:31.802502
-People in this joint -1  at <module 'time' (built-in)>
-People in this joint -2  at <module 'time' (built-in)>
-People in this joint -1  at 2017-04-28 16:54:41.700742
-People in this joint 0  at 2017-04-28 16:54:41.700742
-People in this joint 1  at 2017-04-28 16:54:41.700742
-People in this joint 1  at 2017-04-28 16:59:36.307786
-People in this joint 1  at 2017-04-28 17:00:20.187739
-People in this joint 0  at <module 'time' (built-in)>
-People in this joint 1  at 2017-04-28 17:00:20.187739
-People in this joint 0  at <module 'time' (built-in)>
-People in this joint 1  at 2017-04-28 17:00:20.187739
-People in this joint 2  at 2017-04-28 17:00:20.187739
-People in this joint 3  at 2017-04-28 17:00:20.187739
-People in this joint 4  at 2017-04-28 17:00:20.187739
-People in this joint 5  at 2017-04-28 17:00:20.187739
-People in this joint 6  at 2017-04-28 17:00:20.187739
-People in this joint -1  at <module 'time' (built-in)>
-People in this joint 0  at 2017-04-28 17:02:20.333207
-People in this joint 1  at 2017-04-28 17:02:20.333207
-People in this joint 1  at 2017-05-23 19:58:54.541518
-People in this joint 1  at 2017-05-23 20:07:33.453687
-People in this joint 2  at 2017-05-23 20:07:33.453687
-People in this joint -1  at <module 'time' (built-in)>
-People in this joint -2  at <module 'time' (built-in)>
-People in this joint -3  at <module 'time' (built-in)>
-People in this joint -2  at 2017-05-23 20:08:08.456968
-People in this joint -3  at <module 'time' (built-in)>
-People in this joint -1  at <module 'time' (built-in)>
-People in this joint 0  at 2017-05-24 14:50:37.101643
-People in this joint -1  at <module 'time' (built-in)>
-People in this joint -2  at <module 'time' (built-in)>
-People in this joint -1  at <module 'time' (built-in)>
-People in this joint -2  at <module 'time' (built-in)>
-People in this joint -1  at 2017-05-24 15:14:18.976961
-People in this joint -2  at <module 'time' (built-in)>
-People in this joint -3  at <module 'time' (built-in)>
-People in this joint -2  at 2017-05-24 15:14:18.976961
-People in this joint -1  at 2017-05-24 15:14:18.976961
-People in this joint 1  at 2017-06-09 21:34:32.159760
-People in this joint 2  at 2017-06-09 21:34:32.159760
-People in this joint 3  at 2017-06-09 21:34:32.159760
-People in this joint 4  at 2017-06-09 21:34:32.159760
-People in this joint 5  at 2017-06-09 21:34:32.159760
-People in this joint 6  at 2017-06-09 21:34:32.159760
-People in this joint 7  at 2017-06-09 21:34:32.159760
-People in this joint 8  at 2017-06-09 21:34:32.159760
-People in this joint 9  at 2017-06-09 21:34:32.159760
-People in this joint 10  at 2017-06-09 21:34:32.159760
-People in this joint 11  at 2017-06-09 21:34:32.159760
-People in this joint 12  at 2017-06-09 21:34:32.159760
-People in this joint 13  at 2017-06-09 21:34:32.159760
-People in this joint 14  at 2017-06-09 21:34:32.159760
-People in this joint 15  at 2017-06-09 21:34:32.159760
-People in this joint 16  at 2017-06-09 21:34:32.159760
-People in this joint 17  at 2017-06-09 21:34:32.159760
-People in this joint 18  at 2017-06-09 21:34:32.159760
-People in this joint 19  at 2017-06-09 21:34:32.159760
-People in this joint 20  at 2017-06-09 21:34:32.159760
-People in this joint 21  at 2017-06-09 21:34:32.159760
-People in this joint 22  at 2017-06-09 21:34:32.159760
-People in this joint 23  at 2017-06-09 21:34:32.159760
+e' (built-in)>
+People in this joint 144  at 2017-06-13 18:08:06.175463
+People in this joint 143  at <module 'time' (built-in)>
+People in this joint 142  at <module 'time' (built-in)>
+People in this joint 143  at 2017-06-13 18:08:06.175463
+People in this joint 144  at 2017-06-13 18:08:06.175463
+People in this joint 143  at <module 'time' (built-in)>
+People in this joint 142  at <module 'time' (built-in)>
+People in this joint 143  at 2017-06-13 18:08:06.175463
+People in this joint 142  at <module 'time' (built-in)>
+People in this joint 143  at 2017-06-13 18:08:06.175463
+People in this joint 144  at 2017-06-13 18:08:06.175463
+People in this joint 143  at <module 'time' (built-in)>
+People in this joint 144  at 2017-06-13 18:08:06.175463
+People in this joint 143  at <module 'time' (built-in)>
+People in this joint 144  at 2017-06-13 18:08:06.175463
+People in this joint 143  at <module 'time' (built-in)>
+People in this joint 144  at 2017-06-13 18:08:06.175463
+People in this joint 145  at 2017-06-13 18:08:06.175463
+People in this joint 146  at 2017-06-13 18:08:06.175463
+People in this joint 147  at 2017-06-13 18:08:06.175463
+People in this joint 148  at 2017-06-13 18:08:06.175463
+People in this joint 147  at <module 'time' (built-in)>
+People in this joint 146  at <module 'time' (built-in)>
+People in this joint 147  at 2017-06-13 18:08:06.175463
+People in this joint 148  at 2017-06-13 18:08:06.175463
+People in this joint 147  at <module 'time' (built-in)>
+People in this joint 148  at 2017-06-13 18:08:06.175463
+People in this joint 149  at 2017-06-13 18:08:06.175463
+People in this joint 148  at <module 'time' (built-in)>
+People in this joint 149  at 2017-06-13 18:08:06.175463
+People in this joint 150  at 2017-06-13 18:08:06.175463
+People in this joint 149  at <module 'time' (built-in)>
+People in this joint 148  at <module 'time' (built-in)>
+People in this joint 149  at 2017-06-13 18:08:06.175463
+People in this joint 148  at <module 'time' (built-in)>
+People in this joint 149  at 2017-06-13 18:08:06.175463
+People in this joint 148  at <module 'time' (built-in)>
+People in this joint 149  at 2017-06-13 18:08:06.175463
+People in this joint 150  at 2017-06-13 18:08:06.175463
+People in this joint 149  at <module 'time' (built-in)>
+People in this joint 150  at 2017-06-13 18:08:06.175463
+People in this joint 151  at 2017-06-13 18:08:06.175463
+People in this joint 150  at <module 'time' (built-in)>
+People in this joint 149  at <module 'time' (built-in)>
+People in this joint 150  at 2017-06-13 18:08:06.175463
+People in this joint 149  at <module 'time' (built-in)>
+People in this joint 150  at 2017-06-13 18:08:06.175463
+People in this joint 151  at 2017-06-13 18:08:06.175463
+People in this joint 150  at <module 'time' (built-in)>
+People in this joint 151  at 2017-06-13 18:08:06.175463
+People in this joint 152  at 2017-06-13 18:08:06.175463
+People in this joint 151  at <module 'time' (built-in)>
+People in this joint 150  at <module 'time' (built-in)>
+People in this joint 151  at 2017-06-13 18:08:06.175463
+People in this joint 150  at <module 'time' (built-in)>
+People in this joint 151  at 2017-06-13 18:08:06.175463
+People in this joint 150  at <module 'time' (built-in)>
+People in this joint 149  at <module 'time' (built-in)>
+People in this joint 150  at 2017-06-13 18:08:06.175463
+People in this joint 149  at <module 'time' (built-in)>
+People in this joint 150  at 2017-06-13 18:08:06.175463
+People in this joint 151  at 2017-06-13 18:08:06.175463
+People in this joint 150  at <module 'time' (built-in)>
+People in this joint 149  at <module 'time' (built-in)>
+People in this joint 148  at <module 'time' (built-in)>
+People in this joint 149  at 2017-06-13 18:08:06.175463
+People in this joint 148  at <module 'time' (built-in)>
+People in this joint 147  at <module 'time' (built-in)>
+People in this joint 146  at <module 'time' (built-in)>
+People in this joint 147  at 2017-06-13 18:08:06.175463
+People in this joint 146  at <module 'time' (built-in)>
+People in this joint 145  at <module 'time' (built-in)>
+People in this joint 144  at <module 'time' (built-in)>
+People in this joint 145  at 2017-06-13 18:08:06.175463
+People in this joint 146  at 2017-06-13 18:08:06.175463
+People in this joint 145  at <module 'time' (built-in)>
+People in this joint 144  at <module 'time' (built-in)>
+People in this joint 143  at <module 'time' (built-in)>
+People in this joint 144  at 2017-06-13 18:08:06.175463
+People in this joint 145  at 2017-06-13 18:08:06.175463
+People in this joint 146  at 2017-06-13 18:08:06.175463
+People in this joint 147  at 2017-06-13 18:08:06.175463
+People in this joint 148  at 2017-06-13 18:08:06.175463
+People in this joint 147  at <module 'time' (built-in)>
+People in this joint 146  at <module 'time' (built-in)>
+People in this joint 147  at 2017-06-13 18:08:06.175463
+People in this joint 148  at 2017-06-13 18:08:06.175463
+People in this joint 147  at <module 'time' (built-in)>
+People in this joint 146  at <module 'time' (built-in)>
+People in this joint 147  at 2017-06-13 18:08:06.175463
+People in this joint 146  at <module 'time' (built-in)>
+People in this joint 147  at 2017-06-13 18:08:06.175463
+People in this joint 146  at <module 'time' (built-in)>
+People in this joint 147  at 2017-06-13 18:08:06.175463
+People in this joint 146  at <module 'time' (built-in)>
+People in this joint 145  at <module 'time' (built-in)>
+People in this joint 146  at 2017-06-13 18:08:06.175463
+People in this joint 145  at <module 'time' (built-in)>
+People in this joint 146  at 2017-06-13 18:08:06.175463
+People in this joint 145  at <module 'time' (built-in)>
+People in this joint 146  at 2017-06-13 18:08:06.175463
+People in this joint 145  at <module 'time' (built-in)>
+People in this joint 144  at <module 'time' (built-in)>
+People in this joint 145  at 2017-06-13 18:08:06.175463
+People in this joint 146  at 2017-06-13 18:08:06.175463
+People in this joint 147  at 2017-06-13 18:08:06.175463
+People in this joint 146  at <module 'time' (built-in)>
+People in this joint 147  at 2017-06-13 18:08:06.175463
+People in this joint 146  at <module 'time' (built-in)>
+People in this joint 147  at 2017-06-13 18:08:06.175463
+People in this joint 148  at 2017-06-13 18:08:06.175463
+People in this joint 149  at 2017-06-13 18:08:06.175463
+People in this joint 150  at 2017-06-13 18:08:06.175463
+People in this joint 151  at 2017-06-13 18:08:06.175463
+People in this joint 152  at 2017-06-13 18:08:06.175463
+People in this joint 151  at <module 'time' (built-in)>
+People in this joint 150  at <module 'time' (built-in)>
+People in this joint 149  at <module 'time' (built-in)>
+People in this joint 150  at 2017-06-13 18:08:06.175463
+People in this joint 151  at 2017-06-13 18:08:06.175463
+People in this joint 150  at <module 'time' (built-in)>
+People in this joint 149  at <module 'time' (built-in)>
+People in this joint 150  at 2017-06-13 18:08:06.175463
+People in this joint 151  at 2017-06-13 18:08:06.175463
+People in this joint 150  at <module 'time' (built-in)>
+People in this joint 149  at <module 'time' (built-in)>
+People in this joint 148  at <module 'time' (built-in)>
+People in this joint 149  at 2017-06-13 18:08:06.175463
+People in this joint 150  at 2017-06-13 18:08:06.175463
+People in this joint 149  at <module 'time' (built-in)>
+People in this joint 148  at <module 'time' (built-in)>
+People in this joint 149  at 2017-06-13 18:08:06.175463
+People in this joint 150  at 2017-06-13 18:08:06.175463
+People in this joint 149  at <module 'time' (built-in)>
+People in this joint 150  at 2017-06-13 18:08:06.175463
+People in this joint 151  at 2017-06-13 18:08:06.175463
+People in this joint 152  at 2017-06-13 18:08:06.175463
+People in this joint 153  at 2017-06-13 18:08:06.175463
+People in this joint 154  at 2017-06-13 18:08:06.175463
+People in this joint 155  at 2017-06-13 18:08:06.175463
+People in this joint 156  at 2017-06-13 18:08:06.175463
+People in this joint 157  at 2017-06-13 18:08:06.175463
+People in this joint 158  at 2017-06-13 18:08:06.175463
+People in this joint 159  at 2017-06-13 18:08:06.175463
+People in this joint 158  at <module 'time' (built-in)>
+People in this joint 159  at 2017-06-13 18:08:06.175463
+PPeople in this joint 1  at 2017-06-14 16:37:37.131271
+People in this joint 2  at 2017-06-14 16:37:37.131271
+People in this joint 3  at 2017-06-14 16:37:37.131271
+People in this joint 4  at 2017-06-14 16:37:37.131271
+People in this joint 5  at 2017-06-14 16:37:37.131271
+People in this joint 6  at 2017-06-14 16:37:37.131271
+People in this joint 7  at 2017-06-14 16:37:37.131271
+People in this joint 8  at 2017-06-14 16:37:37.131271
+People in this joint 9  at 2017-06-14 16:37:37.131271
+People in this joint 10  at 2017-06-14 16:37:37.131271
+People in this joint 11  at 2017-06-14 16:37:37.131271
+People in this joint 12  at 2017-06-14 16:37:37.131271
+People in this joint 13  at 2017-06-14 16:37:37.131271
+People in this joint 14  at 2017-06-14 16:37:37.131271
+People in this joint 15  at 2017-06-14 16:37:37.131271
+People in this joint 16  at 2017-06-14 16:37:37.131271
+People in this joint 17  at 2017-06-14 16:37:37.131271
+People in this joint 18  at 2017-06-14 16:37:37.131271
+People in this joint 19  at 2017-06-14 16:37:37.131271
+People in this joint 20  at 2017-06-14 16:37:37.131271
+People in this joint 21  at 2017-06-14 16:37:37.131271
+People in this joint 22  at 2017-06-14 16:37:37.131271
+People in this joint 23  at 2017-06-14 16:37:37.131271
+People in this joint 24  at 2017-06-14 16:37:37.131271
+People in this joint 25  at 2017-06-14 16:37:37.131271
+People in this joint 26  at 2017-06-14 16:37:37.131271
+People in this joint 27  at 2017-06-14 16:37:37.131271
+People in this joint 26  at <module 'datetime' (built-in)>
+People in this joint 27  at 2017-06-14 16:37:37.131271
+People in this joint 28  at 2017-06-14 16:37:37.131271
+People in this joint 29  at 2017-06-14 16:37:37.131271
+People in this joint 30  at 2017-06-14 16:37:37.131271
+People in this joint 31  at 2017-06-14 16:37:37.131271
+People in this joint 32  at 2017-06-14 16:37:37.131271
+People in this joint 31  at <module 'datetime' (built-in)>
+People in this joint 32  at 2017-06-14 16:37:37.131271
+People in this joint 31  at <module 'datetime' (built-in)>
+People in this joint 32  at 2017-06-14 16:37:37.131271
+People in this joint 33  at 2017-06-14 16:37:37.131271
+People in this joint 34  at 2017-06-14 16:37:37.131271
+People in this joint 35  at 2017-06-14 16:37:37.131271
+People in this joint 36  at 2017-06-14 16:37:37.131271
+People in this joint 37  at 2017-06-14 16:37:37.131271
+People in this joint 38  at 2017-06-14 16:37:37.131271
+People in this joint 39  at 2017-06-14 16:37:37.131271
+People in this joint 40  at 2017-06-14 16:37:37.131271
+People in this joint 41  at 2017-06-14 16:37:37.131271
+People in this joint 42  at 2017-06-14 16:37:37.131271
+People in this joint 43  at 2017-06-14 16:37:37.131271
+People in this joint 44  at 2017-06-14 16:37:37.131271
+People in this joint 45  at 2017-06-14 16:37:37.131271
+People in this joint 46  at 2017-06-14 16:37:37.131271
+People in this joint 45  at <module 'datetime' (built-in)>
+People in this joint 44  at <module 'datetime' (built-in)>
+People in this joint 43  at <module 'datetime' (built-in)>
+People in this joint 44  at 2017-06-14 16:37:37.131271
+People in this joint 45  at 2017-06-14 16:37:37.131271
+People in this joint 44  at <module 'datetime' (built-in)>
+People in this joint 45  at 2017-06-14 16:37:37.131271
+People in this joint 44  at <module 'datetime' (built-in)>
+People in this joint 45  at 2017-06-14 16:37:37.131271
+People in this joint 46  at 2017-06-14 16:37:37.131271
+People in this joint 47  at 2017-06-14 16:37:37.131271
+People in this joint 48  at 2017-06-14 16:37:37.131271
+People in this joint 49  at 2017-06-14 16:37:37.131271
+People in this joint 50  at 2017-06-14 16:37:37.131271
+People in this joint 51  at 2017-06-14 16:37:37.131271
+People in this joint 52  at 2017-06-14 16:37:37.131271
+People in this joint 53  at 2017-06-14 16:37:37.131271
+People in this joint 54  at 2017-06-14 16:37:37.131271
+People in this joint 55  at 2017-06-14 16:37:37.131271
+People in this joint 56  at 2017-06-14 16:37:37.131271
+People in this joint 57  at 2017-06-14 16:37:37.131271
+People in this joint 58  at 2017-06-14 16:37:37.131271
+People in this joint 59  at 2017-06-14 16:37:37.131271
+People in this joint 60  at 2017-06-14 16:37:37.131271
+People in this joint 61  at 2017-06-14 16:37:37.131271
+People in this joint 62  at 2017-06-14 16:37:37.131271
+People in this joint 63  at 2017-06-14 16:37:37.131271
+People in this joint 64  at 2017-06-14 16:37:37.131271
+People in this joint 65  at 2017-06-14 16:37:37.131271
+People in this joint 66  at 2017-06-14 16:37:37.131271
+People in this joint 67  at 2017-06-14 16:37:37.131271
+People in this joint 68  at 2017-06-14 16:37:37.131271
+People in this joint 69  at 2017-06-14 16:37:37.131271
+People in this joint 70  at 2017-06-14 16:37:37.131271
+People in this joint 71  at 2017-06-14 16:37:37.131271
+People in this joint 72  at 2017-06-14 16:37:37.131271
+People in this joint 73  at 2017-06-14 16:37:37.131271
+People in this joint 74  at 2017-06-14 16:37:37.131271
+People in this joint 75  at 2017-06-14 16:37:37.131271
+People in this joint 76  at 2017-06-14 16:37:37.131271
+People in this joint 75  at <module 'datetime' (built-in)>
+People in this joint 76  at 2017-06-14 16:37:37.131271
+People in this joint 77  at 2017-06-14 16:37:37.131271
+People in this joint 78  at 2017-06-14 16:37:37.131271
+People in this joint 79  at 2017-06-14 16:37:37.131271
+People in this joint 80  at 2017-06-14 16:37:37.131271
+People in this joint 81  at 2017-06-14 16:37:37.131271
+People in this joint 82  at 2017-06-14 16:37:37.131271
+People in this joint 83  at 2017-06-14 16:37:37.131271
+People in this joint 84  at 2017-06-14 16:37:37.131271
+People in this joint 85  at 2017-06-14 16:37:37.131271
+People in this joint 86  at 2017-06-14 16:37:37.131271
+People in this joint 87  at 2017-06-14 16:37:37.131271
+People in this joint 88  at 2017-06-14 16:37:37.131271
+People in this joint 89  at 2017-06-14 16:37:37.131271
+People in this joint 90  at 2017-06-14 16:37:37.131271
+People in this joint 91  at 2017-06-14 16:37:37.131271
+People in this joint 92  at 2017-06-14 16:37:37.131271
+People in this joint 93  at 2017-06-14 16:37:37.131271
+People in this joint 94  at 2017-06-14 16:37:37.131271
+People in this joint 95  at 2017-06-14 16:37:37.131271
+People in this joint 94  at <module 'datetime' (built-in)>
+People in this joint 95  at 2017-06-14 16:37:37.131271
+People in this joint 96  at 2017-06-14 16:37:37.131271
+People in this joint 97  at 2017-06-14 16:37:37.131271
+People in this joint 98  at 2017-06-14 16:37:37.131271
+People in this joint 99  at 2017-06-14 16:37:37.131271
+People in this joint 100  at 2017-06-14 16:37:37.131271
+People in this joint 101  at 2017-06-14 16:37:37.131271
+People in this joint 102  at 2017-06-14 16:37:37.131271
+People in this joint 103  at 2017-06-14 16:37:37.131271
+People in this joint 104  at 2017-06-14 16:37:37.131271
+People in this joint 105  at 2017-06-14 16:37:37.131271
+People in this joint 106  at 2017-06-14 16:37:37.131271
+People in this joint 107  at 2017-06-14 16:37:37.131271
+People in this joint 108  at 2017-06-14 16:37:37.131271
+People in this joint 109  at 2017-06-14 16:37:37.131271
+People in this joint 110  at 2017-06-14 16:37:37.131271
+People in this joint 111  at 2017-06-14 16:37:37.131271
+People in this joint 112  at 2017-06-14 16:37:37.131271
+People in this joint 113  at 2017-06-14 16:37:37.131271
+People in this joint 114  at 2017-06-14 16:37:37.131271
+People in this joint 115  at 2017-06-14 16:37:37.131271
+People in this joint 114  at <module 'datetime' (built-in)>
+People in this joint 115  at 2017-06-14 16:37:37.131271
+People in this joint 116  at 2017-06-14 16:37:37.131271
+People in this joint 117  at 2017-06-14 16:37:37.131271
+People in this joint 118  at 2017-06-14 16:37:37.131271
+People in this joint 119  at 2017-06-14 16:37:37.131271
+People in this joint 118  at <module 'datetime' (built-in)>
+People in this joint 119  at 2017-06-14 16:37:37.131271
+People in this joint 120  at 2017-06-14 16:37:37.131271
+People in this joint 121  at 2017-06-14 16:37:37.131271
+People in this joint 122  at 2017-06-14 16:37:37.131271
+People in this joint 123  at 2017-06-14 16:37:37.131271
+People in this joint 124  at 2017-06-14 16:37:37.131271
+People in this joint 125  at 2017-06-14 16:37:37.131271
+People in this joint 126  at 2017-06-14 16:37:37.131271
+People in this joint 127  at 2017-06-14 16:37:37.131271
+People in this joint 128  at 2017-06-14 16:37:37.131271
+People in this joint 129  at 2017-06-14 16:37:37.131271
+People in this joint 130  at 2017-06-14 16:37:37.131271
+People in this joint 131  at 2017-06-14 16:37:37.131271
+People in this joint 132  at 2017-06-14 16:37:37.131271
+People in this joint 133  at 2017-06-14 16:37:37.131271
+People in this joint 134  at 2017-06-14 16:37:37.131271
+People in this joint 135  at 2017-06-14 16:37:37.131271
+People in this joint 136  at 2017-06-14 16:37:37.131271
+People in this joint 137  at 2017-06-14 16:37:37.131271
+People in this joint 138  at 2017-06-14 16:37:37.131271
+People in this joint 139  at 2017-06-14 16:37:37.131271
+People in this joint 140  at 2017-06-14 16:37:37.131271
+People in this joint 141  at 2017-06-14 16:37:37.131271
+People in this joint 142  at 2017-06-14 16:37:37.131271
+People in this joint 143  at 2017-06-14 16:37:37.131271
+People in this joint 144  at 2017-06-14 16:37:37.131271
+People in this joint 145  at 2017-06-14 16:37:37.131271
+People in this joint 146  at 2017-06-14 16:37:37.131271
+People in this joint 147  at 2017-06-14 16:37:37.131271
+People in this joint 148  at 2017-06-14 16:37:37.131271
+People in this joint 147  at <module 'datetime' (built-in)>
+People in this joint 148  at 2017-06-14 16:37:37.131271
+People in this joint 149  at 2017-06-14 16:37:37.131271
+People in this joint 150  at 2017-06-14 16:37:37.131271
+People in this joint 151  at 2017-06-14 16:37:37.131271
+People in this joint 152  at 2017-06-14 16:37:37.131271
+People in this joint 153  at 2017-06-14 16:37:37.131271
+People in this joint 154  at 2017-06-14 16:37:37.131271
+People in this joint 155  at 2017-06-14 16:37:37.131271
+People in this joint 156  at 2017-06-14 16:37:37.131271
+People in this joint 157  at 2017-06-14 16:37:37.131271
+People in this joint 158  at 2017-06-14 16:37:37.131271
+People in this joint 159  at 2017-06-14 16:37:37.131271
+People in this joint 160  at 2017-06-14 16:37:37.131271
+People in this joint 161  at 2017-06-14 16:37:37.131271
+People in this joint 162  at 2017-06-14 16:37:37.131271
+People in this joint 163  at 2017-06-14 16:37:37.131271
+People in this joint 164  at 2017-06-14 16:37:37.131271
+People in this joint 165  at 2017-06-14 16:37:37.131271
+People in this joint 164  at <module 'datetime' (built-in)>
+People in this joint 165  at 2017-06-14 16:37:37.131271
+People in this joint 166  at 2017-06-14 16:37:37.131271
+People in this joint 167  at 2017-06-14 16:37:37.131271
+People in this joint 168  at 2017-06-14 16:37:37.131271
+People in this joint 169  at 2017-06-14 16:37:37.131271
+People in this joint 170  at 2017-06-14 16:37:37.131271
+People in this joint 171  at 2017-06-14 16:37:37.131271
+People in this joint 172  at 2017-06-14 16:37:37.131271
+People in this joint 173  at 2017-06-14 16:37:37.131271
+People in this joint 174  at 2017-06-14 16:37:37.131271
+People in this joint 175  at 2017-06-14 16:37:37.131271
+People in this joint 176  at 2017-06-14 16:37:37.131271
+People in this joint 177  at 2017-06-14 16:37:37.131271
+People in this joint 178  at 2017-06-14 16:37:37.131271
+People in this joint 179  at 2017-06-14 16:37:37.131271
+People in this joint 180  at 2017-06-14 16:37:37.131271
+People in this joint 181  at 2017-06-14 16:37:37.131271
+People in this joint 182  at 2017-06-14 16:37:37.131271
+People in this joint 183  at 2017-06-14 16:37:37.131271
+People in this joint 184  at 2017-06-14 16:37:37.131271
+People in this joint 185  at 2017-06-14 16:37:37.131271
+People in this joint 186  at 2017-06-14 16:37:37.131271
+People in this joint 187  at 2017-06-14 16:37:37.131271
+People in this joint 188  at 2017-06-14 16:37:37.131271
+People in this joint 187  at <module 'datetime' (built-in)>
+People in this joint 188  at 2017-06-14 16:37:37.131271
+People in this joint 189  at 2017-06-14 16:37:37.131271
+People in this joint 190  at 2017-06-14 16:37:37.131271
+People in this joint 191  at 2017-06-14 16:37:37.131271
+People in this joint 192  at 2017-06-14 16:37:37.131271
+People in this joint 193  at 2017-06-14 16:37:37.131271
+People in this joint 194  at 2017-06-14 16:37:37.131271
+People in this joint 195  at 2017-06-14 16:37:37.131271
+People in this joint 196  at 2017-06-14 16:37:37.131271
+People in this joint 197  at 2017-06-14 16:37:37.131271
+People in this joint 196  at <module 'datetime' (built-in)>
+People in this joint 197  at 2017-06-14 16:37:37.131271
+People in this joint 198  at 2017-06-14 16:37:37.131271
+People in this joint 199  at 2017-06-14 16:37:37.131271
+People in this joint 200  at 2017-06-14 16:37:37.131271
+People in this joint 201  at 2017-06-14 16:37:37.131271
+People in this joint 202  at 2017-06-14 16:37:37.131271
+People in this joint 203  at 2017-06-14 16:37:37.131271
+People in this joint 204  at 2017-06-14 16:37:37.131271
+People in this joint 205  at 2017-06-14 16:37:37.131271
+People in this joint 206  at 2017-06-14 16:37:37.131271
+People in this joint 207  at 2017-06-14 16:37:37.131271
+People in this joint 208  at 2017-06-14 16:37:37.131271
+People in this joint 209  at 2017-06-14 16:37:37.131271
+People in this joint 210  at 2017-06-14 16:37:37.131271
+People in this joint 209  at <module 'datetime' (built-in)>
+People in this joint 210  at 2017-06-14 16:37:37.131271
+People in this joint 211  at 2017-06-14 16:37:37.131271
+People in this joint 212  at 2017-06-14 16:37:37.131271
+People in this joint 213  at 2017-06-14 16:37:37.131271
+People in this joint 214  at 2017-06-14 16:37:37.131271
+People in this joint 215  at 2017-06-14 16:37:37.131271
+People in this joint 216  at 2017-06-14 16:37:37.131271
+People in this joint 217  at 2017-06-14 16:37:37.131271
+People in this joint 218  at 2017-06-14 16:37:37.131271
+People in this joint 219  at 2017-06-14 16:37:37.131271
+People in this joint 218  at <module 'datetime' (built-in)>
+People in this joint 219  at 2017-06-14 16:37:37.131271
+People in this joint 220  at 2017-06-14 16:37:37.131271
+People in this joint 221  at 2017-06-14 16:37:37.131271
+People in this joint 222  at 2017-06-14 16:37:37.131271
+People in this joint 221  at <module 'datetime' (built-in)>
+People in this joint 222  at 2017-06-14 16:37:37.131271
+People in this joint 223  at 2017-06-14 16:37:37.131271
+People in this joint 224  at 2017-06-14 16:37:37.131271
+People in this joint 225  at 2017-06-14 16:37:37.131271
+People in this joint 224  at <module 'datetime' (built-in)>
+People in this joint 225  at 2017-06-14 16:37:37.131271
+People in this joint 226  at 2017-06-14 16:37:37.131271
+People in this joint 227  at 2017-06-14 16:37:37.131271
+People in this joint 228  at 2017-06-14 16:37:37.131271
+People in this joint 229  at 2017-06-14 16:37:37.131271
+People in this joint 230  at 2017-06-14 16:37:37.131271
+People in this joint 231  at 2017-06-14 16:37:37.131271
+People in this joint 232  at 2017-06-14 16:37:37.131271
+People in this joint 233  at 2017-06-14 16:37:37.131271
+People in this joint 234  at 2017-06-14 16:37:37.131271
+People in this joint 235  at 2017-06-14 16:37:37.131271
+People in this joint 236  at 2017-06-14 16:37:37.131271
+People in this joint 237  at 2017-06-14 16:37:37.131271
+People in this joint 238  at 2017-06-14 16:37:37.131271
+People in this joint 239  at 2017-06-14 16:37:37.131271
+People in this joint 240  at 2017-06-14 16:37:37.131271
+People in this joint 241  at 2017-06-14 16:37:37.131271
+People in this joint 242  at 2017-06-14 16:37:37.131271
+People in this joint 243  at 2017-06-14 16:37:37.131271
+People in this joint 244  at 2017-06-14 16:37:37.131271
+People in this joint 245  at 2017-06-14 16:37:37.131271
+People in this joint 246  at 2017-06-14 16:37:37.131271
+People in this joint 247  at 2017-06-14 16:37:37.131271
+People in this joint 248  at 2017-06-14 16:37:37.131271
+People in this joint 249  at 2017-06-14 16:37:37.131271
+People in this joint 250  at 2017-06-14 16:37:37.131271
+People in this joint 251  at 2017-06-14 16:37:37.131271
+People in this joint 252  at 2017-06-14 16:37:37.131271
+People in this joint 253  at 2017-06-14 16:37:37.131271
+People in this joint 254  at 2017-06-14 16:37:37.131271
+People in this joint 255  at 2017-06-14 16:37:37.131271
+People in this joint 256  at 2017-06-14 16:37:37.131271
+People in this joint 257  at 2017-06-14 16:37:37.131271
+People in this joint 258  at 2017-06-14 16:37:37.131271
+People in this joint 259  at 2017-06-14 16:37:37.131271
+People in this joint 260  at 2017-06-14 16:37:37.131271
+People in this joint 261  at 2017-06-14 16:37:37.131271
+People in this joint 262  at 2017-06-14 16:37:37.131271
+People in this joint 263  at 2017-06-14 16:37:37.131271
+People in this joint 264  at 2017-06-14 16:37:37.131271
+People in this joint 265  at 2017-06-14 16:37:37.131271
+People in this joint 266  at 2017-06-14 16:37:37.131271
+People in this joint 267  at 2017-06-14 16:37:37.131271
+People in this joint 268  at 2017-06-14 16:37:37.131271
+People in this joint 269  at 2017-06-14 16:37:37.131271
+People in this joint 270  at 2017-06-14 16:37:37.131271
+People in this joint 271  at 2017-06-14 16:37:37.131271
+People in this joint 270  at <module 'datetime' (built-in)>
+People in this joint 271  at 2017-06-14 16:37:37.131271
+People in this joint 272  at 2017-06-14 16:37:37.131271
+People in this joint 273  at 2017-06-14 16:37:37.131271
+People in this joint 274  at 2017-06-14 16:37:37.131271
+People in this joint 275  at 2017-06-14 16:37:37.131271
+People in this joint 276  at 2017-06-14 16:37:37.131271
+People in this joint 277  at 2017-06-14 16:37:37.131271
+People in this joint 278  at 2017-06-14 16:37:37.131271
+People in this joint 279  at 2017-06-14 16:37:37.131271
+People in this joint 280  at 2017-06-14 16:37:37.131271
+People in this joint 281  at 2017-06-14 16:37:37.131271
+People in this joint 282  at 2017-06-14 16:37:37.131271
+People in this joint 283  at 2017-06-14 16:37:37.131271
+People in this joint 284  at 2017-06-14 16:37:37.131271
+People in this joint 285  at 2017-06-14 16:37:37.131271
+People in this joint 286  at 2017-06-14 16:37:37.131271
+People in this joint 287  at 2017-06-14 16:37:37.131271
+People in this joint 288  at 2017-06-14 16:37:37.131271
+People in this joint 289  at 2017-06-14 16:37:37.131271
+People in this joint 290  at 2017-06-14 16:37:37.131271
+People in this joint 291  at 2017-06-14 16:37:37.131271
+People in this joint 292  at 2017-06-14 16:37:37.131271
+People in this joint 293  at 2017-06-14 16:37:37.131271
+People in this joint 294  at 2017-06-14 16:37:37.131271
+People in this joint 295  at 2017-06-14 16:37:37.131271
+People in this joint 296  at 2017-06-14 16:37:37.131271
+People in this joint 297  at 2017-06-14 16:37:37.131271
+People in this joint 296  at <module 'datetime' (built-in)>
+People in this joint 297  at 2017-06-14 16:37:37.131271
+People in this joint 298  at 2017-06-14 16:37:37.131271
+People in this joint 299  at 2017-06-14 16:37:37.131271
+People in this joint 300  at 2017-06-14 16:37:37.131271
+People in this joint 301  at 2017-06-14 16:37:37.131271
+People in this joint 302  at 2017-06-14 16:37:37.131271
+People in this joint 303  at 2017-06-14 16:37:37.131271
+People in this joint 304  at 2017-06-14 16:37:37.131271
+People in this joint 305  at 2017-06-14 16:37:37.131271
+People in this joint 304  at <module 'datetime' (built-in)>
+People in this joint 305  at 2017-06-14 16:37:37.131271
+People in this joint 306  at 2017-06-14 16:37:37.131271
+People in this joint 307  at 2017-06-14 16:37:37.131271
+People in this joint 308  at 2017-06-14 16:37:37.131271
+People in this joint 309  at 2017-06-14 16:37:37.131271
+People in this joint 310  at 2017-06-14 16:37:37.131271
+People in this joint 311  at 2017-06-14 16:37:37.131271
+People in this joint 312  at 2017-06-14 16:37:37.131271
+People in this joint 313  at 2017-06-14 16:37:37.131271
+People in this joint 314  at 2017-06-14 16:37:37.131271
+People in this joint 315  at 2017-06-14 16:37:37.131271
+People in this joint 316  at 2017-06-14 16:37:37.131271
+People in this joint 317  at 2017-06-14 16:37:37.131271
+People in this joint 318  at 2017-06-14 16:37:37.131271
+People in this joint 319  at 2017-06-14 16:37:37.131271
+People in this joint 320  at 2017-06-14 16:37:37.131271
+People in this joint 321  at 2017-06-14 16:37:37.131271
+People in this joint 322  at 2017-06-14 16:37:37.131271
+People in this joint 323  at 2017-06-14 16:37:37.131271
+People in this joint 324  at 2017-06-14 16:37:37.131271
+People in this joint 325  at 2017-06-14 16:37:37.131271
+People in this joint 326  at 2017-06-14 16:37:37.131271
+People in this joint 327  at 2017-06-14 16:37:37.131271
+People in this joint 328  at 2017-06-14 16:37:37.131271
+People in this joint 329  at 2017-06-14 16:37:37.131271
+People in this joint 330  at 2017-06-14 16:37:37.131271
+People in this joint 331  at 2017-06-14 16:37:37.131271
+People in this joint 332  at 2017-06-14 16:37:37.131271
+People in this joint 333  at 2017-06-14 16:37:37.131271
+People in this joint 334  at 2017-06-14 16:37:37.131271
+People in this joint 335  at 2017-06-14 16:37:37.131271
+People in this joint 336  at 2017-06-14 16:37:37.131271
+People in this joint 337  at 2017-06-14 16:37:37.131271
+People in this joint 338  at 2017-06-14 16:37:37.131271
+People in this joint 339  at 2017-06-14 16:37:37.131271
+People in this joint 340  at 2017-06-14 16:37:37.131271
+People in this joint 341  at 2017-06-14 16:37:37.131271
+People in this joint 342  at 2017-06-14 16:37:37.131271
+People in this joint 343  at 2017-06-14 16:37:37.131271
+People in this joint 344  at 2017-06-14 16:37:37.131271
+People in this joint 345  at 2017-06-14 16:37:37.131271
+People in this joint 346  at 2017-06-14 16:37:37.131271
+People in this joint 347  at 2017-06-14 16:37:37.131271
+People in this joint 348  at 2017-06-14 16:37:37.131271
+People in this joint 349  at 2017-06-14 16:37:37.131271
+People in this joint 350  at 2017-06-14 16:37:37.131271
+People in this joint 351  at 2017-06-14 16:37:37.131271
+People in this joint 352  at 2017-06-14 16:37:37.131271
+People in this joint 351  at <module 'datetime' (built-in)>
+People in this joint 350  at <module 'datetime' (built-in)>
+People in this joint 349  at <module 'datetime' (built-in)>
+People in this joint 350  at 2017-06-14 16:37:37.131271
+People in this joint 351  at 2017-06-14 16:37:37.131271
+People in this joint 352  at 2017-06-14 16:37:37.131271
+People in this joint 353  at 2017-06-14 16:37:37.131271
+People in this joint 352  at <module 'datetime' (built-in)>
+People in this joint 353  at 2017-06-14 16:37:37.131271
+People in this joint 354  at 2017-06-14 16:37:37.131271
+People in this joint 355  at 2017-06-14 16:37:37.131271
+People in this joint 354  at <module 'datetime' (built-in)>
+People in this joint 355  at 2017-06-14 16:37:37.131271
+People in this joint 356  at 2017-06-14 16:37:37.131271
+People in this joint 355  at <module 'datetime' (built-in)>
+People in this joint 354  at <module 'datetime' (built-in)>
+People in this joint 355  at 2017-06-14 16:37:37.131271
+People in this joint 356  at 2017-06-14 16:37:37.131271
+People in this joint 357  at 2017-06-14 16:37:37.131271
+People in this joint 358  at 2017-06-14 16:37:37.131271
+People in this joint 359  at 2017-06-14 16:37:37.131271
+People in this joint 360  at 2017-06-14 16:37:37.131271
+People in this joint 361  at 2017-06-14 16:37:37.131271
+People in this joint 362  at 2017-06-14 16:37:37.131271
+People in this joint 363  at 2017-06-14 16:37:37.131271
+People in this joint 364  at 2017-06-14 16:37:37.131271
+People in this joint 365  at 2017-06-14 16:37:37.131271
+People in this joint 366  at 2017-06-14 16:37:37.131271
+People in this joint 367  at 2017-06-14 16:37:37.131271
+People in this joint 368  at 2017-06-14 16:37:37.131271
+People in this joint 369  at 2017-06-14 16:37:37.131271
+People in this joint 370  at 2017-06-14 16:37:37.131271
+People in this joint 371  at 2017-06-14 16:37:37.131271
+People in this joint 372  at 2017-06-14 16:37:37.131271
+People in this joint 373  at 2017-06-14 16:37:37.131271
+People in this joint 374  at 2017-06-14 16:37:37.131271
+People in this joint 375  at 2017-06-14 16:37:37.131271
+People in this joint 376  at 2017-06-14 16:37:37.131271
+People in this joint 377  at 2017-06-14 16:37:37.131271
+People in this joint 378  at 2017-06-14 16:37:37.131271
+People in this joint 379  at 2017-06-14 16:37:37.131271
+People in this joint 380  at 2017-06-14 16:37:37.131271
+People in this joint 381  at 2017-06-14 16:37:37.131271
+People in this joint 382  at 2017-06-14 16:37:37.131271
+People in this joint 383  at 2017-06-14 16:37:37.131271
+People in this joint 384  at 2017-06-14 16:37:37.131271
+People in this joint 385  at 2017-06-14 16:37:37.131271
+People in this joint 386  at 2017-06-14 16:37:37.131271
+People in this joint 387  at 2017-06-14 16:37:37.131271
+People in this joint 388  at 2017-06-14 16:37:37.131271
+People in this joint 389  at 2017-06-14 16:37:37.131271
+People in this joint 390  at 2017-06-14 16:37:37.131271
+People in this joint 391  at 2017-06-14 16:37:37.131271
+People in this joint 392  at 2017-06-14 16:37:37.131271
+People in this joint 393  at 2017-06-14 16:37:37.131271
+People in this joint 394  at 2017-06-14 16:37:37.131271
+People in this joint 395  at 2017-06-14 16:37:37.131271
+People in this joint 396  at 2017-06-14 16:37:37.131271
+People in this joint 397  at 2017-06-14 16:37:37.131271
+People in this joint 398  at 2017-06-14 16:37:37.131271
+People in this joint 399  at 2017-06-14 16:37:37.131271
+People in this joint 400  at 2017-06-14 16:37:37.131271
+People in this joint 401  at 2017-06-14 16:37:37.131271
+People in this joint 400  at <module 'datetime' (built-in)>
+People in this joint 399  at <module 'datetime' (built-in)>
+People in this joint 400  at 2017-06-14 16:37:37.131271
+People in this joint 401  at 2017-06-14 16:37:37.131271
+People in this joint 402  at 2017-06-14 16:37:37.131271
+People in this joint 403  at 2017-06-14 16:37:37.131271
+People in this joint 404  at 2017-06-14 16:37:37.131271
+People in this joint 405  at 2017-06-14 16:37:37.131271
+People in this joint 406  at 2017-06-14 16:37:37.131271
+People in this joint 407  at 2017-06-14 16:37:37.131271
+People in this joint 406  at <module 'datetime' (built-in)>
+People in this joint 407  at 2017-06-14 16:37:37.131271
+People in this joint 408  at 2017-06-14 16:37:37.131271
+People in this joint 409  at 2017-06-14 16:37:37.131271
+People in this joint 410  at 2017-06-14 16:37:37.131271
+People in this joint 411  at 2017-06-14 16:37:37.131271
+People in this joint 410  at <module 'datetime' (built-in)>
+People in this joint 409  at <module 'datetime' (built-in)>
+People in this joint 410  at 2017-06-14 16:37:37.131271
+People in this joint 411  at 2017-06-14 16:37:37.131271
+People in this joint 412  at 2017-06-14 16:37:37.131271
+People in this joint 413  at 2017-06-14 16:37:37.131271
+People in this joint 414  at 2017-06-14 16:37:37.131271
+People in this joint 415  at 2017-06-14 16:37:37.131271
+People in this joint 416  at 2017-06-14 16:37:37.131271
+People in this joint 417  at 2017-06-14 16:37:37.131271
+People in this joint 418  at 2017-06-14 16:37:37.131271
+People in this joint 419  at 2017-06-14 16:37:37.131271
+People in this joint 420  at 2017-06-14 16:37:37.131271
+People in this joint 421  at 2017-06-14 16:37:37.131271
+People in this joint 422  at 2017-06-14 16:37:37.131271
+People in this joint 423  at 2017-06-14 16:37:37.131271
+People in this joint 424  at 2017-06-14 16:37:37.131271
+People in this joint 425  at 2017-06-14 16:37:37.131271
+People in this joint 426  at 2017-06-14 16:37:37.131271
+People in this joint 425  at <module 'datetime' (built-in)>
+People in this joint 426  at 2017-06-14 16:37:37.131271
+People in this joint 427  at 2017-06-14 16:37:37.131271
+People in this joint 428  at 2017-06-14 16:37:37.131271
+People in this joint 429  at 2017-06-14 16:37:37.131271
+People in this joint 430  at 2017-06-14 16:37:37.131271
+People in this joint 431  at 2017-06-14 16:37:37.131271
+People in this joint 432  at 2017-06-14 16:37:37.131271
+People in this joint 433  at 2017-06-14 16:37:37.131271
+People in this joint 434  at 2017-06-14 16:37:37.131271
+People in this joint 435  at 2017-06-14 16:37:37.131271
+People in this joint 436  at 2017-06-14 16:37:37.131271
+People in this joint 437  at 2017-06-14 16:37:37.131271
+People in this joint 438  at 2017-06-14 16:37:37.131271
+People in this joint 439  at 2017-06-14 16:37:37.131271
+People in this joint 440  at 2017-06-14 16:37:37.131271
+People in this joint 441  at 2017-06-14 16:37:37.131271
+People in this joint 442  at 2017-06-14 16:37:37.131271
+People in this joint 443  at 2017-06-14 16:37:37.131271
+People in this joint 442  at <module 'datetime' (built-in)>
+People in this joint 443  at 2017-06-14 16:37:37.131271
+People in this joint 442  at <module 'datetime' (built-in)>
+People in this joint 441  at <module 'datetime' (built-in)>
+People in this joint 440  at <module 'datetime' (built-in)>
+People in this joint 439  at <module 'datetime' (built-in)>
+People in this joint 440  at 2017-06-14 16:37:37.131271
+People in this joint 441  at 2017-06-14 16:37:37.131271
+People in this joint 442  at 2017-06-14 16:37:37.131271
+People in this joint 443  at 2017-06-14 16:37:37.131271
+People in this joint 444  at 2017-06-14 16:37:37.131271
+People in this joint 445  at 2017-06-14 16:37:37.131271
+People in this joint 446  at 2017-06-14 16:37:37.131271
+People in this joint 447  at 2017-06-14 16:37:37.131271
+People in this joint 448  at 2017-06-14 16:37:37.131271
+People in this joint 449  at 2017-06-14 16:37:37.131271
+People in this joint 450  at 2017-06-14 16:37:37.131271
+People in this joint 451  at 2017-06-14 16:37:37.131271
+People in this joint 452  at 2017-06-14 16:37:37.131271
+People in this joint 453  at 2017-06-14 16:37:37.131271
+People in this joint 454  at 2017-06-14 16:37:37.131271
+People in this joint 455  at 2017-06-14 16:37:37.131271
+People in this joint 456  at 2017-06-14 16:37:37.131271
+People in this joint 457  at 2017-06-14 16:37:37.131271
+People in this joint 458  at 2017-06-14 16:37:37.131271
+People in this joint 457  at <module 'datetime' (built-in)>
+People in this joint 458  at 2017-06-14 16:37:37.131271
+People in this joint 459  at 2017-06-14 16:37:37.131271
+People in this joint 460  at 2017-06-14 16:37:37.131271
+People in this joint 461  at 2017-06-14 16:37:37.131271
+People in this joint 462  at 2017-06-14 16:37:37.131271
+People in this joint 463  at 2017-06-14 16:37:37.131271
+People in this joint 464  at 2017-06-14 16:37:37.131271
+People in this joint 465  at 2017-06-14 16:37:37.131271
+People in this joint 466  at 2017-06-14 16:37:37.131271
+People in this joint 467  at 2017-06-14 16:37:37.131271
+People in this joint 468  at 2017-06-14 16:37:37.131271
+People in this joint 469  at 2017-06-14 16:37:37.131271
+People in this joint 470  at 2017-06-14 16:37:37.131271
+People in this joint 471  at 2017-06-14 16:37:37.131271
+People in this joint 472  at 2017-06-14 16:37:37.131271
+People in this joint 473  at 2017-06-14 16:37:37.131271
+People in this joint 474  at 2017-06-14 16:37:37.131271
+People in this joint 475  at 2017-06-14 16:37:37.131271
+People in this joint 476  at 2017-06-14 16:37:37.131271
+People in this joint 477  at 2017-06-14 16:37:37.131271
+People in this joint 478  at 2017-06-14 16:37:37.131271
+People in this joint 479  at 2017-06-14 16:37:37.131271
+People in this joint 480  at 2017-06-14 16:37:37.131271
+People in this joint 481  at 2017-06-14 16:37:37.131271
+People in this joint 482  at 2017-06-14 16:37:37.131271
+People in this joint 483  at 2017-06-14 16:37:37.131271
+People in this joint 484  at 2017-06-14 16:37:37.131271
+People in this joint 485  at 2017-06-14 16:37:37.131271
+People in this joint 486  at 2017-06-14 16:37:37.131271
+People in this joint 485  at <module 'datetime' (built-in)>
+People in this joint 486  at 2017-06-14 16:37:37.131271
+People in this joint 487  at 2017-06-14 16:37:37.131271
+People in this joint 488  at 2017-06-14 16:37:37.131271
+People in this joint 487  at <module 'datetime' (built-in)>
+People in this joint 488  at 2017-06-14 16:37:37.131271
+People in this joint 489  at 2017-06-14 16:37:37.131271
+People in this joint 490  at 2017-06-14 16:37:37.131271
+People in this joint 491  at 2017-06-14 16:37:37.131271
+People in this joint 492  at 2017-06-14 16:37:37.131271
+People in this joint 493  at 2017-06-14 16:37:37.131271
+People in this joint 494  at 2017-06-14 16:37:37.131271
+People in this joint 495  at 2017-06-14 16:37:37.131271
+People in this joint 496  at 2017-06-14 16:37:37.131271
+People in this joint 497  at 2017-06-14 16:37:37.131271
+People in this joint 498  at 2017-06-14 16:37:37.131271
+People in this joint 499  at 2017-06-14 16:37:37.131271
+People in this joint 500  at 2017-06-14 16:37:37.131271
+People in this joint 501  at 2017-06-14 16:37:37.131271
+People in this joint 502  at 2017-06-14 16:37:37.131271
+People in this joint 503  at 2017-06-14 16:37:37.131271
+People in this joint 504  at 2017-06-14 16:37:37.131271
+People in this joint 505  at 2017-06-14 16:37:37.131271
+People in this joint 506  at 2017-06-14 16:37:37.131271
+People in this joint 507  at 2017-06-14 16:37:37.131271
+People in this joint 508  at 2017-06-14 16:37:37.131271
+People in this joint 509  at 2017-06-14 16:37:37.131271
+People in this joint 510  at 2017-06-14 16:37:37.131271
+People in this joint 511  at 2017-06-14 16:37:37.131271
+People in this joint 512  at 2017-06-14 16:37:37.131271
+People in this joint 513  at 2017-06-14 16:37:37.131271
+People in this joint 514  at 2017-06-14 16:37:37.131271
+People in this joint 515  at 2017-06-14 16:37:37.131271
+People in this joint 516  at 2017-06-14 16:37:37.131271
+People in this joint 517  at 2017-06-14 16:37:37.131271
+People in this joint 516  at <module 'datetime' (built-in)>
+People in this joint 517  at 2017-06-14 16:37:37.131271
+People in this joint 516  at <module 'datetime' (built-in)>
+People in this joint 517  at 2017-06-14 16:37:37.131271
+People in this joint 518  at 2017-06-14 16:37:37.131271
+People in this joint 519  at 2017-06-14 16:37:37.131271
+People in this joint 520  at 2017-06-14 16:37:37.131271
+People in this joint 521  at 2017-06-14 16:37:37.131271
+People in this joint 520  at <module 'datetime' (built-in)>
+People in this joint 521  at 2017-06-14 16:37:37.131271
+People in this joint 522  at 2017-06-14 16:37:37.131271
+People in this joint 523  at 2017-06-14 16:37:37.131271
+People in this joint 524  at 2017-06-14 16:37:37.131271
+People in this joint 525  at 2017-06-14 16:37:37.131271
+People in this joint 526  at 2017-06-14 16:37:37.131271
+People in this joint 527  at 2017-06-14 16:37:37.131271
+People in this joint 528  at 2017-06-14 16:37:37.131271
+People in this joint 529  at 2017-06-14 16:37:37.131271
+People in this joint 528  at <module 'datetime' (built-in)>
+People in this joint 529  at 2017-06-14 16:37:37.131271
+People in this joint 530  at 2017-06-14 16:37:37.131271
+People in this joint 531  at 2017-06-14 16:37:37.131271
+People in this joint 532  at 2017-06-14 16:37:37.131271
+People in this joint 533  at 2017-06-14 16:37:37.131271
+People in this joint 534  at 2017-06-14 16:37:37.131271
+People in this joint 535  at 2017-06-14 16:37:37.131271
+People in this joint 536  at 2017-06-14 16:37:37.131271
+People in this joint 537  at 2017-06-14 16:37:37.131271
+People in this joint 538  at 2017-06-14 16:37:37.131271
+People in this joint 539  at 2017-06-14 16:37:37.131271
+People in this joint 540  at 2017-06-14 16:37:37.131271
+People in this joint 541  at 2017-06-14 16:37:37.131271
+People in this joint 542  at 2017-06-14 16:37:37.131271
+People in this joint 543  at 2017-06-14 16:37:37.131271
+People in this joint 544  at 2017-06-14 16:37:37.131271
+People in this joint 545  at 2017-06-14 16:37:37.131271
+People in this joint 546  at 2017-06-14 16:37:37.131271
+People in this joint 547  at 2017-06-14 16:37:37.131271
+People in this joint 548  at 2017-06-14 16:37:37.131271
+People in this joint 549  at 2017-06-14 16:37:37.131271
+People in this joint 550  at 2017-06-14 16:37:37.131271
+People in this joint 551  at 2017-06-14 16:37:37.131271
+People in this joint 552  at 2017-06-14 16:37:37.131271
+People in this joint 551  at <module 'datetime' (built-in)>
+People in this joint 552  at 2017-06-14 16:37:37.131271
+People in this joint 553  at 2017-06-14 16:37:37.131271
+People in this joint 554  at 2017-06-14 16:37:37.131271
+People in this joint 555  at 2017-06-14 16:37:37.131271
+People in this joint 556  at 2017-06-14 16:37:37.131271
+People in this joint 557  at 2017-06-14 16:37:37.131271
+People in this joint 558  at 2017-06-14 16:37:37.131271
+People in this joint 557  at <module 'datetime' (built-in)>
+People in this joint 556  at <module 'datetime' (built-in)>
+People in this joint 555  at <module 'datetime' (built-in)>
+People in this joint 556  at 2017-06-14 16:37:37.131271
+People in this joint 557  at 2017-06-14 16:37:37.131271
+People in this joint 558  at 2017-06-14 16:37:37.131271
+People in this joint 559  at 2017-06-14 16:37:37.131271
+People in this joint 560  at 2017-06-14 16:37:37.131271
+People in this joint 559  at <module 'datetime' (built-in)>
+People in this joint 560  at 2017-06-14 16:37:37.131271
+People in this joint 561  at 2017-06-14 16:37:37.131271
+People in this joint 562  at 2017-06-14 16:37:37.131271
+People in this joint 563  at 2017-06-14 16:37:37.131271
+People in this joint 564  at 2017-06-14 16:37:37.131271
+People in this joint 565  at 2017-06-14 16:37:37.131271
+People in this joint 566  at 2017-06-14 16:37:37.131271
+People in this joint 565  at <module 'datetime' (built-in)>
+People in this joint 566  at 2017-06-14 16:37:37.131271
+People in this joint 567  at 2017-06-14 16:37:37.131271
+People in this joint 566  at <module 'datetime' (built-in)>
+People in this joint 567  at 2017-06-14 16:37:37.131271
+People in this joint 568  at 2017-06-14 16:37:37.131271
+People in this joint 569  at 2017-06-14 16:37:37.131271
+People in this joint 570  at 2017-06-14 16:37:37.131271
+People in this joint 571  at 2017-06-14 16:37:37.131271
+People in this joint 572  at 2017-06-14 16:37:37.131271
+People in this joint 573  at 2017-06-14 16:37:37.131271
+People in this joint 574  at 2017-06-14 16:37:37.131271
+People in this joint 575  at 2017-06-14 16:37:37.131271
+People in this joint 574  at <module 'datetime' (built-in)>
+People in this joint 575  at 2017-06-14 16:37:37.131271
+People in this joint 574  at <module 'datetime' (built-in)>
+People in this joint 575  at 2017-06-14 16:37:37.131271
+People in this joint 576  at 2017-06-14 16:37:37.131271
+People in this joint 577  at 2017-06-14 16:37:37.131271
+People in this joint 578  at 2017-06-14 16:37:37.131271
+People in this joint 579  at 2017-06-14 16:37:37.131271
+People in this joint 580  at 2017-06-14 16:37:37.131271
+People in this joint 581  at 2017-06-14 16:37:37.131271
+People in this joint 582  at 2017-06-14 16:37:37.131271
+People in this joint 583  at 2017-06-14 16:37:37.131271
+People in this joint 584  at 2017-06-14 16:37:37.131271
+People in this joint 585  at 2017-06-14 16:37:37.131271
+People in this joint 586  at 2017-06-14 16:37:37.131271
+People in this joint 587  at 2017-06-14 16:37:37.131271
+People in this joint 588  at 2017-06-14 16:37:37.131271
+People in this joint 589  at 2017-06-14 16:37:37.131271
+People in this joint 590  at 2017-06-14 16:37:37.131271
+People in this joint 591  at 2017-06-14 16:37:37.131271
+People in this joint 592  at 2017-06-14 16:37:37.131271
+People in this joint 593  at 2017-06-14 16:37:37.131271
+People in this joint 592  at <module 'datetime' (built-in)>
+People in this joint 593  at 2017-06-14 16:37:37.131271
+People in this joint 594  at 2017-06-14 16:37:37.131271
+People in this joint 595  at 2017-06-14 16:37:37.131271
+People in this joint 596  at 2017-06-14 16:37:37.131271
+People in this joint 595  at <module 'datetime' (built-in)>
+People in this joint 596  at 2017-06-14 16:37:37.131271
+People in this joint 597  at 2017-06-14 16:37:37.131271
+People in this joint 598  at 2017-06-14 16:37:37.131271
+People in this joint 599  at 2017-06-14 16:37:37.131271
+People in this joint 600  at 2017-06-14 16:37:37.131271
+People in this joint 601  at 2017-06-14 16:37:37.131271
+People in this joint 602  at 2017-06-14 16:37:37.131271
+People in this joint 603  at 2017-06-14 16:37:37.131271
+People in this joint 604  at 2017-06-14 16:37:37.131271
+People in this joint 605  at 2017-06-14 16:37:37.131271
+People in this joint 606  at 2017-06-14 16:37:37.131271
+People in this joint 607  at 2017-06-14 16:37:37.131271
+People in this joint 608  at 2017-06-14 16:37:37.131271
+People in this joint 609  at 2017-06-14 16:37:37.131271
+People in this joint 610  at 2017-06-14 16:37:37.131271
+People in this joint 611  at 2017-06-14 16:37:37.131271
+People in this joint 612  at 2017-06-14 16:37:37.131271
+People in this joint 613  at 2017-06-14 16:37:37.131271
+People in this joint 614  at 2017-06-14 16:37:37.131271
+People in this joint 613  at <module 'datetime' (built-in)>
+People in this joint 614  at 2017-06-14 16:37:37.131271
+People in this joint 615  at 2017-06-14 16:37:37.131271
+People in this joint 616  at 2017-06-14 16:37:37.131271
+People in this joint 617  at 2017-06-14 16:37:37.131271
+People in this joint 618  at 2017-06-14 16:37:37.131271
+People in this joint 619  at 2017-06-14 16:37:37.131271
+People in this joint 620  at 2017-06-14 16:37:37.131271
+People in this joint 621  at 2017-06-14 16:37:37.131271
+People in this joint 622  at 2017-06-14 16:37:37.131271
+People in this joint 623  at 2017-06-14 16:37:37.131271
+People in this joint 624  at 2017-06-14 16:37:37.131271
+People in this joint 625  at 2017-06-14 16:37:37.131271
+People in this joint 626  at 2017-06-14 16:37:37.131271
+People in this joint 627  at 2017-06-14 16:37:37.131271
+People in this joint 628  at 2017-06-14 16:37:37.131271
+People in this joint 629  at 2017-06-14 16:37:37.131271
+People in this joint 630  at 2017-06-14 16:37:37.131271
+People in this joint 631  at 2017-06-14 16:37:37.131271
+People in this joint 632  at 2017-06-14 16:37:37.131271
+People in this joint 633  at 2017-06-14 16:37:37.131271
+People in this joint 634  at 2017-06-14 16:37:37.131271
+People in this joint 635  at 2017-06-14 16:37:37.131271
+People in this joint 636  at 2017-06-14 16:37:37.131271
+People in this joint 637  at 2017-06-14 16:37:37.131271
+People in this joint 638  at 2017-06-14 16:37:37.131271
+People in this joint 639  at 2017-06-14 16:37:37.131271
+People in this joint 640  at 2017-06-14 16:37:37.131271
+People in this joint 641  at 2017-06-14 16:37:37.131271
+People in this joint 640  at <module 'datetime' (built-in)>
+People in this joint 641  at 2017-06-14 16:37:37.131271
+People in this joint 642  at 2017-06-14 16:37:37.131271
+People in this joint 643  at 2017-06-14 16:37:37.131271
+People in this joint 644  at 2017-06-14 16:37:37.131271
+People in this joint 645  at 2017-06-14 16:37:37.131271
+People in this joint 646  at 2017-06-14 16:37:37.131271
+People in this joint 647  at 2017-06-14 16:37:37.131271
+People in this joint 648  at 2017-06-14 16:37:37.131271
+People in this joint 649  at 2017-06-14 16:37:37.131271
+People in this joint 650  at 2017-06-14 16:37:37.131271
+People in this joint 651  at 2017-06-14 16:37:37.131271
+People in this joint 652  at 2017-06-14 16:37:37.131271
+People in this joint 653  at 2017-06-14 16:37:37.131271
+People in this joint 654  at 2017-06-14 16:37:37.131271
+People in this joint 655  at 2017-06-14 16:37:37.131271
+People in this joint 656  at 2017-06-14 16:37:37.131271
+People in this joint 657  at 2017-06-14 16:37:37.131271
+People in this joint 658  at 2017-06-14 16:37:37.131271
+People in this joint 659  at 2017-06-14 16:37:37.131271
+People in this joint 660  at 2017-06-14 16:37:37.131271
+People in this joint 661  at 2017-06-14 16:37:37.131271
+People in this joint 662  at 2017-06-14 16:37:37.131271
+People in this joint 663  at 2017-06-14 16:37:37.131271
+People in this joint 664  at 2017-06-14 16:37:37.131271
+People in this joint 665  at 2017-06-14 16:37:37.131271
+People in this joint 666  at 2017-06-14 16:37:37.131271
+People in this joint 665  at <module 'datetime' (built-in)>
+People in this joint 666  at 2017-06-14 16:37:37.131271
+People in this joint 667  at 2017-06-14 16:37:37.131271
+People in this joint 668  at 2017-06-14 16:37:37.131271
+People in this joint 669  at 2017-06-14 16:37:37.131271
+People in this joint 670  at 2017-06-14 16:37:37.131271
+People in this joint 671  at 2017-06-14 16:37:37.131271
+People in this joint 670  at <module 'datetime' (built-in)>
+People in this joint 671  at 2017-06-14 16:37:37.131271
+People in this joint 670  at <module 'datetime' (built-in)>
+People in this joint 669  at <module 'datetime' (built-in)>
+People in this joint 668  at <module 'datetime' (built-in)>
+People in this joint 667  at <module 'datetime' (built-in)>
+People in this joint 668  at 2017-06-14 16:37:37.131271
+People in this joint 669  at 2017-06-14 16:37:37.131271
+People in this joint 670  at 2017-06-14 16:37:37.131271
+People in this joint 669  at <module 'datetime' (built-in)>
+People in this joint 670  at 2017-06-14 16:37:37.131271
+People in this joint 671  at 2017-06-14 16:37:37.131271
+People in this joint 672  at 2017-06-14 16:37:37.131271
+People in this joint 673  at 2017-06-14 16:37:37.131271
+People in this joint 674  at 2017-06-14 16:37:37.131271
+People in this joint 675  at 2017-06-14 16:37:37.131271
+People in this joint 676  at 2017-06-14 16:37:37.131271
+People in this joint 677  at 2017-06-14 16:37:37.131271
+People in this joint 678  at 2017-06-14 16:37:37.131271
+People in this joint 679  at 2017-06-14 16:37:37.131271
+People in this joint 680  at 2017-06-14 16:37:37.131271
+People in this joint 681  at 2017-06-14 16:37:37.131271
+People in this joint 682  at 2017-06-14 16:37:37.131271
+People in this joint 683  at 2017-06-14 16:37:37.131271
+People in this joint 682  at <module 'datetime' (built-in)>
+People in this joint 681  at <module 'datetime' (built-in)>
+People in this joint 682  at 2017-06-14 16:37:37.131271
+People in this joint 683  at 2017-06-14 16:37:37.131271
+People in this joint 684  at 2017-06-14 16:37:37.131271
+People in this joint 685  at 2017-06-14 16:37:37.131271
+People in this joint 686  at 2017-06-14 16:37:37.131271
+People in this joint 687  at 2017-06-14 16:37:37.131271
+People in this joint 688  at 2017-06-14 16:37:37.131271
+People in this joint 689  at 2017-06-14 16:37:37.131271
+People in this joint 690  at 2017-06-14 16:37:37.131271
+People in this joint 691  at 2017-06-14 16:37:37.131271
+People in this joint 692  at 2017-06-14 16:37:37.131271
+People in this joint 693  at 2017-06-14 16:37:37.131271
+People in this joint 694  at 2017-06-14 16:37:37.131271
+People in this joint 695  at 2017-06-14 16:37:37.131271
+People in this joint 696  at 2017-06-14 16:37:37.131271
+People in this joint 697  at 2017-06-14 16:37:37.131271
+People in this joint 698  at 2017-06-14 16:37:37.131271
+People in this joint 699  at 2017-06-14 16:37:37.131271
+People in this joint 700  at 2017-06-14 16:37:37.131271
+People in this joint 701  at 2017-06-14 16:37:37.131271
+People in this joint 702  at 2017-06-14 16:37:37.131271
+People in this joint 703  at 2017-06-14 16:37:37.131271
+People in this joint 704  at 2017-06-14 16:37:37.131271
+People in this joint 705  at 2017-06-14 16:37:37.131271
+People in this joint 706  at 2017-06-14 16:37:37.131271
+People in this joint 707  at 2017-06-14 16:37:37.131271
+People in this joint 708  at 2017-06-14 16:37:37.131271
+People in this joint 709  at 2017-06-14 16:37:37.131271
+People in this joint 708  at <module 'datetime' (built-in)>
+People in this joint 709  at 2017-06-14 16:37:37.131271
+People in this joint 710  at 2017-06-14 16:37:37.131271
+People in this joint 711  at 2017-06-14 16:37:37.131271
+People in this joint 712  at 2017-06-14 16:37:37.131271
+People in this joint 713  at 2017-06-14 16:37:37.131271
+People in this joint 714  at 2017-06-14 16:37:37.131271
+People in this joint 715  at 2017-06-14 16:37:37.131271
+People in this joint 716  at 2017-06-14 16:37:37.131271
+People in this joint 717  at 2017-06-14 16:37:37.131271
+People in this joint 718  at 2017-06-14 16:37:37.131271
+People in this joint 719  at 2017-06-14 16:37:37.131271
+People in this joint 720  at 2017-06-14 16:37:37.131271
+People in this joint 721  at 2017-06-14 16:37:37.131271
+People in this joint 722  at 2017-06-14 16:37:37.131271
+People in this joint 723  at 2017-06-14 16:37:37.131271
+People in this joint 724  at 2017-06-14 16:37:37.131271
+People in this joint 725  at 2017-06-14 16:37:37.131271
+People in this joint 726  at 2017-06-14 16:37:37.131271
+People in this joint 727  at 2017-06-14 16:37:37.131271
+People in this joint 728  at 2017-06-14 16:37:37.131271
+People in this joint 729  at 2017-06-14 16:37:37.131271
+People in this joint 730  at 2017-06-14 16:37:37.131271
+People in this joint 731  at 2017-06-14 16:37:37.131271
+People in this joint 732  at 2017-06-14 16:37:37.131271
+People in this joint 733  at 2017-06-14 16:37:37.131271
+People in this joint 734  at 2017-06-14 16:37:37.131271
+People in this joint 735  at 2017-06-14 16:37:37.131271
+People in this joint 736  at 2017-06-14 16:37:37.131271
+People in this joint 737  at 2017-06-14 16:37:37.131271
+People in this joint 738  at 2017-06-14 16:37:37.131271
+People in this joint 739  at 2017-06-14 16:37:37.131271
+People in this joint 740  at 2017-06-14 16:37:37.131271
+People in this joint 741  at 2017-06-14 16:37:37.131271
+People in this joint 742  at 2017-06-14 16:37:37.131271
+People in this joint 743  at 2017-06-14 16:37:37.131271
+People in this joint 744  at 2017-06-14 16:37:37.131271
+People in this joint 745  at 2017-06-14 16:37:37.131271
+People in this joint 746  at 2017-06-14 16:37:37.131271
+People in this joint 747  at 2017-06-14 16:37:37.131271
+People in this joint 748  at 2017-06-14 16:37:37.131271
+People in this joint 749  at 2017-06-14 16:37:37.131271
+People in this joint 750  at 2017-06-14 16:37:37.131271
+People in this joint 751  at 2017-06-14 16:37:37.131271
+People in this joint 752  at 2017-06-14 16:37:37.131271
+People in this joint 753  at 2017-06-14 16:37:37.131271
+People in this joint 754  at 2017-06-14 16:37:37.131271
+People in this joint 755  at 2017-06-14 16:37:37.131271
+People in this joint 756  at 2017-06-14 16:37:37.131271
+People in this joint 757  at 2017-06-14 16:37:37.131271
+People in this joint 756  at <module 'datetime' (built-in)>
+People in this joint 757  at 2017-06-14 16:37:37.131271
+People in this joint 758  at 2017-06-14 16:37:37.131271
+People in this joint 759  at 2017-06-14 16:37:37.131271
+People in this joint 758  at <module 'datetime' (built-in)>
+People in this joint 759  at 2017-06-14 16:37:37.131271
+People in this joint 760  at 2017-06-14 16:37:37.131271
+People in this joint 759  at <module 'datetime' (built-in)>
+People in this joint 760  at 2017-06-14 16:37:37.131271
+People in this joint 761  at 2017-06-14 16:37:37.131271
+People in this joint 762  at 2017-06-14 16:37:37.131271
+People in this joint 763  at 2017-06-14 16:37:37.131271
+People in this joint 764  at 2017-06-14 16:37:37.131271
+People in this joint 765  at 2017-06-14 16:37:37.131271
+People in this joint 766  at 2017-06-14 16:37:37.131271
+People in this joint 767  at 2017-06-14 16:37:37.131271
+People in this joint 768  at 2017-06-14 16:37:37.131271
+People in this joint 769  at 2017-06-14 16:37:37.131271
+People in this joint 770  at 2017-06-14 16:37:37.131271
+People in this joint 771  at 2017-06-14 16:37:37.131271
+People in this joint 772  at 2017-06-14 16:37:37.131271
+People in this joint 771  at <module 'datetime' (built-in)>
+People in this joint 770  at <module 'datetime' (built-in)>
+People in this joint 771  at 2017-06-14 16:37:37.131271
+People in this joint 770  at <module 'datetime' (built-in)>
+People in this joint 769  at <module 'datetime' (built-in)>
+People in this joint 770  at 2017-06-14 16:37:37.131271
+People in this joint 769  at <module 'datetime' (built-in)>
+People in this joint 768  at <module 'datetime' (built-in)>
+People in this joint 769  at 2017-06-14 16:37:37.131271
+People in this joint 770  at 2017-06-14 16:37:37.131271
+People in this joint 771  at 2017-06-14 16:37:37.131271
+People in this joint 772  at 2017-06-14 16:37:37.131271
+People in this joint 773  at 2017-06-14 16:37:37.131271
+People in this joint 774  at 2017-06-14 16:37:37.131271
+People in this joint 775  at 2017-06-14 16:37:37.131271
+People in this joint 776  at 2017-06-14 16:37:37.131271
+People in this joint 777  at 2017-06-14 16:37:37.131271
+People in this joint 778  at 2017-06-14 16:37:37.131271
+People in this joint 779  at 2017-06-14 16:37:37.131271
+People in this joint 780  at 2017-06-14 16:37:37.131271
+People in this joint 781  at 2017-06-14 16:37:37.131271
+People in this joint 782  at 2017-06-14 16:37:37.131271
+People in this joint 781  at <module 'datetime' (built-in)>
+People in this joint 782  at 2017-06-14 16:37:37.131271
+People in this joint 783  at 2017-06-14 16:37:37.131271
+People in this joint 784  at 2017-06-14 16:37:37.131271
+People in this joint 785  at 2017-06-14 16:37:37.131271
+People in this jointPeople in this joint 1  at 2017-06-15 11:52:50.493036
+People in this joint 2  at 2017-06-15 11:52:50.493036
+People in this joint 3  at 2017-06-15 11:52:50.493036
+People in this joint 4  at 2017-06-15 11:52:50.493036
+People in this joint 5  at 2017-06-15 11:52:50.493036
+People in this joint 6  at 2017-06-15 11:52:50.493036
+People in this joint 7  at 2017-06-15 11:52:50.493036
+People in this joint 8  at 2017-06-15 11:52:50.493036
+People in this joint 9  at 2017-06-15 11:52:50.493036
+People in this joint 10  at 2017-06-15 11:52:50.493036
+People in this joint 11  at 2017-06-15 11:52:50.493036
+People in this joint 12  at 2017-06-15 11:52:50.493036
+People in this joint 13  at 2017-06-15 11:52:50.493036
+People in this joint 12  at <module 'datetime' (built-in)>
+People in this joint 13  at 2017-06-15 11:52:50.493036
+People in this joint 14  at 2017-06-15 11:52:50.493036
+People in this joint 13  at <module 'datetime' (built-in)>
+People in this joint 14  at 2017-06-15 11:52:50.493036
+People in this joint 15  at 2017-06-15 11:52:50.493036
+People in this joint 14  at <module 'datetime' (built-in)>
+People in this joint 15  at 2017-06-15 11:52:50.493036
+People in this joint 16  at 2017-06-15 11:52:50.493036
+People in this joint 17  at 2017-06-15 11:52:50.493036
+People in this joint 16  at <module 'datetime' (built-in)>
+People in this joint 17  at 2017-06-15 11:52:50.493036
+People in this joint 18  at 2017-06-15 11:52:50.493036
+People in this joint 17  at <module 'datetime' (built-in)>
+People in this joint 16  at <module 'datetime' (built-in)>
+People in this joint 15  at <module 'datetime' (built-in)>
+People in this joint 14  at <module 'datetime' (built-in)>
+People in this joint 13  at <module 'datetime' (built-in)>
+People in this joint 14  at 2017-06-15 11:52:50.493036
+People in this joint 15  at 2017-06-15 11:52:50.493036
+People in this joint 16  at 2017-06-15 11:52:50.493036
+People in this joint 15  at <module 'datetime' (built-in)>
+People in this joint 16  at 2017-06-15 11:52:50.493036
+People in this joint 17  at 2017-06-15 11:52:50.493036
+People in this joint 18  at 2017-06-15 11:52:50.493036
+People in this joint 17  at <module 'datetime' (built-in)>
+People in this joint 18  at 2017-06-15 11:52:50.493036
+People in this joint 19  at 2017-06-15 11:52:50.493036
+People in this joint 20  at 2017-06-15 11:52:50.493036
+People in this joint 21  at 2017-06-15 11:52:50.493036
+People in this joint 22  at 2017-06-15 11:52:50.493036
+People in this joint 23  at 2017-06-15 11:52:50.493036
+People in this joint 24  at 2017-06-15 11:52:50.493036
+People in this joint 25  at 2017-06-15 11:52:50.493036
+People in this joint 26  at 2017-06-15 11:52:50.493036
+People in this joint 27  at 2017-06-15 11:52:50.493036
+People in this joint 26  at <module 'datetime' (built-in)>
+People in this joint 27  at 2017-06-15 11:52:50.493036
+People in this joint 28  at 2017-06-15 11:52:50.493036
+People in this joint 29  at 2017-06-15 11:52:50.493036
+People in this joint 30  at 2017-06-15 11:52:50.493036
+People in this joint 31  at 2017-06-15 11:52:50.493036
+People in this joint 32  at 2017-06-15 11:52:50.493036
+People in this joint 33  at 2017-06-15 11:52:50.493036
+People in this joint 32  at <module 'datetime' (built-in)>
+People in this joint 31  at <module 'datetime' (built-in)>
+People in this joint 32  at 2017-06-15 11:52:50.493036
+People in this joint 33  at 2017-06-15 11:52:50.493036
+People in this joint 32  at <module 'datetime' (built-in)>
+People in this joint 33  at 2017-06-15 11:52:50.493036
+People in this joint 32  at <module 'datetime' (built-in)>
+People in this joint 31  at <module 'datetime' (built-in)>
+People in this joint 30  at <module 'datetime' (built-in)>
+People in this joint 29  at <module 'datetime' (built-in)>
+People in this joint 28  at <module 'datetime' (built-in)>
+People in this joint 29  at 2017-06-15 11:52:50.493036
+People in this joint 30  at 2017-06-15 11:52:50.493036
+People in this joint 31  at 2017-06-15 11:52:50.493036
+People in this joint 32  at 2017-06-15 11:52:50.493036
+People in this joint 33  at 2017-06-15 11:52:50.493036
+People in this joint 34  at 2017-06-15 11:52:50.493036
+People in this joint 35  at 2017-06-15 11:52:50.493036
+People in this joint 36  at 2017-06-15 11:52:50.493036
+People in this joint 37  at 2017-06-15 11:52:50.493036
+People in this joint 36  at <module 'datetime' (built-in)>
+People in this joint 37  at 2017-06-15 11:52:50.493036
+People in this joint 36  at <module 'datetime' (built-in)>
+People in this joint 37  at 2017-06-15 11:52:50.493036
+People in this joint 38  at 2017-06-15 11:52:50.493036
+People in this joint 39  at 2017-06-15 11:52:50.493036
+People in this joint 38  at <module 'datetime' (built-in)>
+People in this joint 39  at 2017-06-15 11:52:50.493036
+People in this joint 40  at 2017-06-15 11:52:50.493036
+People in this joint 41  at 2017-06-15 11:52:50.493036
+People in this joint 40  at <module 'datetime' (built-in)>
+People in this joint 41  at 2017-06-15 11:52:50.493036
+People in this joint 40  at <module 'datetime' (built-in)>
+People in this joint 41  at 2017-06-15 11:52:50.493036
+People in this joint 42  at 2017-06-15 11:52:50.493036
+People in this joint 43  at 2017-06-15 11:52:50.493036
+People in this joint 44  at 2017-06-15 11:52:50.493036
+People in this joint 45  at 2017-06-15 11:52:50.493036
+People in this joint 46  at 2017-06-15 11:52:50.493036
+People in this joint 47  at 2017-06-15 11:52:50.493036
+People in this joint 48  at 2017-06-15 11:52:50.493036
+People in this joint 47  at <module 'datetime' (built-in)>
+People in this joint 48  at 2017-06-15 11:52:50.493036
+People in this joint 47  at <module 'datetime' (built-in)>
+People in this joint 48  at 2017-06-15 11:52:50.493036
+People in this joint 49  at 2017-06-15 11:52:50.493036
+People in this joint 50  at 2017-06-15 11:52:50.493036
+People in this joint 51  at 2017-06-15 11:52:50.493036
+People in this joint 52  at 2017-06-15 11:52:50.493036
+People in this joint 53  at 2017-06-15 11:52:50.493036
+People in this joint 54  at 2017-06-15 11:52:50.493036
+People in this joint 55  at 2017-06-15 11:52:50.493036
+People in this joint 54  at <module 'datetime' (built-in)>
+People in this joint 55  at 2017-06-15 11:52:50.493036
+People in this joint 54  at <module 'datetime' (built-in)>
+People in this joint 55  at 2017-06-15 11:52:50.493036
+People in this joint 56  at 2017-06-15 11:52:50.493036
+People in this joint 55  at <module 'datetime' (built-in)>
+People in this joint 54  at <module 'datetime' (built-in)>
+People in this joint 55  at 2017-06-15 11:52:50.493036
+People in this joint 56  at 2017-06-15 11:52:50.493036
+People in this joint 55  at <module 'datetime' (built-in)>
+People in this joint 56  at 2017-06-15 11:52:50.493036
+People in this joint 57  at 2017-06-15 11:52:50.493036
+People in this joint 58  at 2017-06-15 11:52:50.493036
+People in this joint 57  at <module 'datetime' (built-in)>
+People in this joint 56  at <module 'datetime' (built-in)>
+People in this joint 55  at <module 'datetime' (built-in)>
+People in this joint 56  at 2017-06-15 11:52:50.493036
+People in this joint 57  at 2017-06-15 11:52:50.493036
+People in this joint 58  at 2017-06-15 11:52:50.493036
+People in this joint 59  at 2017-06-15 11:52:50.493036
+People in this joint 58  at <module 'datetime' (built-in)>
+People in this joint 57  at <module 'datetime' (built-in)>
+People in this joint 58  at 2017-06-15 11:52:50.493036
+People in this joint 59  at 2017-06-15 11:52:50.493036
+People in this joint 60  at 2017-06-15 11:52:50.493036
+People in this joint 61  at 2017-06-15 11:52:50.493036
+People in this joint 62  at 2017-06-15 11:52:50.493036
+People in this joint 61  at <module 'datetime' (built-in)>
+People in this joint 62  at 2017-06-15 11:52:50.493036
+People in this joint 61  at <module 'datetime' (built-in)>
+People in this joint 60  at <module 'datetime' (built-in)>
+People in this joint 61  at 2017-06-15 11:52:50.493036
+People in this joint 60  at <module 'datetime' (built-in)>
+People in this joint 59  at <module 'datetime' (built-in)>
+People in this joint 58  at <module 'datetime' (built-in)>
+People in this joint 57  at <module 'datetime' (built-in)>
+People in this joint 58  at 2017-06-15 11:52:50.493036
+People in this joint 59  at 2017-06-15 11:52:50.493036
+People in this joint 60  at 2017-06-15 11:52:50.493036
+People in this joint 61  at 2017-06-15 11:52:50.493036
+People in this joint 62  at 2017-06-15 11:52:50.493036
+People in this joint 63  at 2017-06-15 11:52:50.493036
+People in this joint 62  at <module 'datetime' (built-in)>
+People in this joint 63  at 2017-06-15 11:52:50.493036
+People in this joint 64  at 2017-06-15 11:52:50.493036
+People in this joint 65  at 2017-06-15 11:52:50.493036
+People in this joint 66  at 2017-06-15 11:52:50.493036
+People in this joint 67  at 2017-06-15 11:52:50.493036
+People in this joint 66  at <module 'datetime' (built-in)>
+People in this joint 65  at <module 'datetime' (built-in)>
+People in this joint 66  at 2017-06-15 11:52:50.493036
+People in this joint 67  at 2017-06-15 11:52:50.493036
+People in this joint 68  at 2017-06-15 11:52:50.493036
+People in this joint 67  at <module 'datetime' (built-in)>
+People in this joint 66  at <module 'datetime' (built-in)>
+People in this joint 65  at <module 'datetime' (built-in)>
+People in this joint 66  at 2017-06-15 11:52:50.493036
+People in this joint 65  at <module 'datetime' (built-in)>
+People in this joint 66  at 2017-06-15 11:52:50.493036
+People in this joint 67  at 2017-06-15 11:52:50.493036
+People in this joint 68  at 2017-06-15 11:52:50.493036
+People in this joint 69  at 2017-06-15 11:52:50.493036
+People in this joint 70  at 2017-06-15 11:52:50.493036
+People in this joint 71  at 2017-06-15 11:52:50.493036
+People in this joint 72  at 2017-06-15 11:52:50.493036
+People in this joint 73  at 2017-06-15 11:52:50.493036
+People in this joint 74  at 2017-06-15 11:52:50.493036
+People in this joint 75  at 2017-06-15 11:52:50.493036
+People in this joint 76  at 2017-06-15 11:52:50.493036
+People in this joint 77  at 2017-06-15 11:52:50.493036
+People in this joint 78  at 2017-06-15 11:52:50.493036
+People in this joint 79  at 2017-06-15 11:52:50.493036
+People in this joint 80  at 2017-06-15 11:52:50.493036
+People in this joint 81  at 2017-06-15 11:52:50.493036
+People in this joint 82  at 2017-06-15 11:52:50.493036
+People in this joint 83  at 2017-06-15 11:52:50.493036
+People in this joint 84  at 2017-06-15 11:52:50.493036
+People in this joint 85  at 2017-06-15 11:52:50.493036
+People in this joint 84  at <module 'datetime' (built-in)>
+People in this joint 83  at <module 'datetime' (built-in)>
+People in this joint 82  at <module 'datetime' (built-in)>
+People in this joint 81  at <module 'datetime' (built-in)>
+People in this joint 82  at 2017-06-15 11:52:50.493036
+People in this joint 83  at 2017-06-15 11:52:50.493036
+People in this joint 84  at 2017-06-15 11:52:50.493036
+People in this joint 85  at 2017-06-15 11:52:50.493036
+People in this joint 86  at 2017-06-15 11:52:50.493036
+People in this joint 87  at 2017-06-15 11:52:50.493036
+People in this joint 88  at 2017-06-15 11:52:50.493036
+People in this joint 87  at <module 'datetime' (built-in)>
+People in this joint 88  at 2017-06-15 11:52:50.493036
+People in this joint 89  at 2017-06-15 11:52:50.493036
+People in this joint 90  at 2017-06-15 11:52:50.493036
+People in this joint 91  at 2017-06-15 11:52:50.493036
+People in this joint 92  at 2017-06-15 11:52:50.493036
+People in this joint 93  at 2017-06-15 11:52:50.493036
+People in this joint 94  at 2017-06-15 11:52:50.493036
+People in this joint 95  at 2017-06-15 11:52:50.493036
+People in this joint 96  at 2017-06-15 11:52:50.493036
+People in this joint 97  at 2017-06-15 11:52:50.493036
+People in this joint 98  at 2017-06-15 11:52:50.493036
+People in this joint 99  at 2017-06-15 11:52:50.493036
+People in this joint 100  at 2017-06-15 11:52:50.493036
+People in this joint 101  at 2017-06-15 11:52:50.493036
+People in this joint 102  at 2017-06-15 11:52:50.493036
+People in this joint 103  at 2017-06-15 11:52:50.493036
+People in this joint 104  at 2017-06-15 11:52:50.493036
+People in this joint 103  at <module 'datetime' (built-in)>
+People in this joint 104  at 2017-06-15 11:52:50.493036
+People in this joint 105  at 2017-06-15 11:52:50.493036
+People in this joint 106  at 2017-06-15 11:52:50.493036
+People in this joint 107  at 2017-06-15 11:52:50.493036
+People in this joint 108  at 2017-06-15 11:52:50.493036
+People in this joint 109  at 2017-06-15 11:52:50.493036
+People in this joint 108  at <module 'datetime' (built-in)>
+People in this joint 109  at 2017-06-15 11:52:50.493036
+People in this joint 110  at 2017-06-15 11:52:50.493036
+People in this joint 109  at <module 'datetime' (built-in)>
+People in this joint 110  at 2017-06-15 11:52:50.493036
+People in this joint 111  at 2017-06-15 11:52:50.493036
+People in this joint 112  at 2017-06-15 11:52:50.493036
+People in this joint 113  at 2017-06-15 11:52:50.493036
+People in this joint 114  at 2017-06-15 11:52:50.493036
+People in this joint 115  at 2017-06-15 11:52:50.493036
+People in this joint 116  at 2017-06-15 11:52:50.493036
+People in this joint 117  at 2017-06-15 11:52:50.493036
+People in this joint 116  at <module 'datetime' (built-in)>
+People in this joint 117  at 2017-06-15 11:52:50.493036
+People in this joint 118  at 2017-06-15 11:52:50.493036
+People in this joint 119  at 2017-06-15 11:52:50.493036
+People in this joint 120  at 2017-06-15 11:52:50.493036
+People in this joint 119  at <module 'datetime' (built-in)>
+People in this joint 120  at 2017-06-15 11:52:50.493036
+People in this joint 121  at 2017-06-15 11:52:50.493036
+People in this joint 120  at <module 'datetime' (built-in)>
+People in this joint 121  at 2017-06-15 11:52:50.493036
+People in this joint 120  at <module 'datetime' (built-in)>
+People in this joint 121  at 2017-06-15 11:52:50.493036
+People in this joint 122  at 2017-06-15 11:52:50.493036
+People in this joint 123  at 2017-06-15 11:52:50.493036
+People in this joint 124  at 2017-06-15 11:52:50.493036
+People in this joint 125  at 2017-06-15 11:52:50.493036
+People in this joint 126  at 2017-06-15 11:52:50.493036
+People in this joint 127  at 2017-06-15 11:52:50.493036
+People in this joint 128  at 2017-06-15 11:52:50.493036
+People in this joint 129  at 2017-06-15 11:52:50.493036
+People in this joint 128  at <module 'datetime' (built-in)>
+People in this joint 127  at <module 'datetime' (built-in)>
+People in this joint 126  at <module 'datetime' (built-in)>
+People in this joint 127  at 2017-06-15 11:52:50.493036
+People in this joint 126  at <module 'datetime' (built-in)>
+People in this joint 125  at <module 'datetime' (built-in)>
+People in this joint 126  at 2017-06-15 11:52:50.493036
+People in this joint 127  at 2017-06-15 11:52:50.493036
+People in this joint 128  at 2017-06-15 11:52:50.493036
+People in this joint 129  at 2017-06-15 11:52:50.493036
+People in this joint 130  at 2017-06-15 11:52:50.493036
+People in this joint 131  at 2017-06-15 11:52:50.493036
+People in this joint 132  at 2017-06-15 11:52:50.493036
+People in this joint 133  at 2017-06-15 11:52:50.493036
+People in this joint 132  at <module 'datetime' (built-in)>
+People in this joint 133  at 2017-06-15 11:52:50.493036
+People in this joint 134  at 2017-06-15 11:52:50.493036
+People in this joint 133  at <module 'datetime' (built-in)>
+People in this joint 132  at <module 'datetime' (built-in)>
+People in this joint 133  at 2017-06-15 11:52:50.493036
+People in this joint 134  at 2017-06-15 11:52:50.493036
+People in this joint 135  at 2017-06-15 11:52:50.493036
+People in this joint 136  at 2017-06-15 11:52:50.493036
+People in this joint 137  at 2017-06-15 11:52:50.493036
+People in this joint 138  at 2017-06-15 11:52:50.493036
+People in this joint 139  at 2017-06-15 11:52:50.493036
+People in this joint 140  at 2017-06-15 11:52:50.493036
+People in this joint 141  at 2017-06-15 11:52:50.493036
+People in this joint 142  at 2017-06-15 11:52:50.493036
+People in this joint 143  at 2017-06-15 11:52:50.493036
+People in this joint 144  at 2017-06-15 11:52:50.493036
+People in this joint 145  at 2017-06-15 11:52:50.493036
+People in this joint 144  at <module 'datetime' (built-in)>
+People in this joint 145  at 2017-06-15 11:52:50.493036
+People in this joint 144  at <module 'datetime' (built-in)>
+People in this joint 145  at 2017-06-15 11:52:50.493036
+People in this j

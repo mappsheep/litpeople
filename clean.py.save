@@ -17,6 +17,7 @@ def internet_on():
 	try:
 		urllib2.urlopen('https://www.google.com', timeout = 1)
 		print ('Yes')
+		subprocess('/home/pi/People_Count/sendemail.sh')
 		return True
 
 	except urllib2.URLError as err:
