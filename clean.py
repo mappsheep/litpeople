@@ -17,6 +17,7 @@ def internet_on():
 	try:
 		urllib2.urlopen('https://www.google.com', timeout = 1)
 		print ('Yes')
+		subprocess.call('/home/pi/People_Count/sendemail.sh')
 		return True
 
 	except urllib2.URLError as err:
@@ -50,8 +51,6 @@ while (internet_on() == False):
 		break
 
 	print ('No dice, trying again....')
-
-subprocess.call('/home/pi/People_Count/sendemail.sh')
 
 #connecting to the database on phpmyadmin, setting up cursor for outputing to database
 print('Connecting to the phpmyadmin local database using mysql and setting up the cursor')
